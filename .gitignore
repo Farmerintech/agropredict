@@ -2,3 +2,6 @@
 node_modules/
 agroprice_build_prompt.md
 .next/
+*.tsbuildinfo
+__pycache__/
+*.pyc

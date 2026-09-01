@@ -1,0 +1,42 @@
+# Periodically re-download the WFP / HDX Nigeria food-price dataset and commit
+# any changes back to the repo.
+#
+# You can also trigger it manually: repo → Actions → "Refresh WFP price data"
+# → "Run workflow".
+name: Refresh WFP price data
+
+on:
+  schedule:
+    # Every Monday 03:17 UTC — WFP prices update roughly monthly.
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and normalize prices
+        run: python scripts/fetch_wfp_hdx.py
+
+      - name: Commit updated data (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/wfp_nigeria_normalized.csv
+          if git diff --cached --quiet; then
+            echo "No price changes — nothing to commit."
+          else
+            git commit -m "chore(data): refresh WFP price observations"
+            git push
+          fi

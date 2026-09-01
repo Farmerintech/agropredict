@@ -1,3 +1,4 @@
-.codex
-node_modules
+.codex/
+node_modules/
 agroprice_build_prompt.md
+.next/

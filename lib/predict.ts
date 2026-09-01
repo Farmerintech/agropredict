@@ -9,6 +9,7 @@ export type ForecastInputs = {
   fxChangeAnnual: number | null;
   costOfCapitalAnnual: number | null;
   blendedMonthlyRate: number;
+  lastObserved: string;
 };
 export type ForecastResult = {
   history: Point[];
@@ -30,6 +31,7 @@ const EMPTY_INPUTS: ForecastInputs = {
   fxChangeAnnual: null,
   costOfCapitalAnnual: null,
   blendedMonthlyRate: 0,
+  lastObserved: "",
 };
 
 export function predictPrices(
@@ -69,9 +71,26 @@ export function predictPrices(
   const blended = Math.min(MAX_MONTHLY, TREND_WEIGHT * gHist + (1 - TREND_WEIGHT) * macroM);
 
   const lastMonth = monthly[monthly.length - 1].date;
+
+  // Forecast from the last observed month through the current month plus the
+  // requested horizon. Commodities whose data ends before today (e.g. some WFP
+  // series stop years ago) still get a prediction spanning the current year,
+  // bridged from their own last available observations.
+  const now = new Date();
+  const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`;
+  const endMonth = addMonths(currentMonth, horizon);
+  const monthsAhead = Math.max(horizon, monthSpan(lastMonth, endMonth));
+  const bridgeMonths = monthSpan(lastMonth, currentMonth);
+
   const forecast: Point[] = [];
-  for (let k = 1; k <= horizon; k += 1) {
+  for (let k = 1; k <= monthsAhead; k += 1) {
     forecast.push({ date: addMonths(lastMonth, k), price: Math.round(basePrice * Math.pow(1 + blended, k)) });
+  }
+
+  if (bridgeMonths > 3) {
+    warnings.push(
+      `Last observation ${lastMonth} — forecast bridges ${bridgeMonths} months to ${currentMonth} using this commodity's own history.`
+    );
   }
 
   return {
@@ -84,6 +103,7 @@ export function predictPrices(
       fxChangeAnnual,
       costOfCapitalAnnual,
       blendedMonthlyRate: blended,
+      lastObserved: lastMonth,
     },
     warnings,
   };
@@ -121,4 +141,10 @@ function addMonths(ym: string, n: number): string {
   const ny = Math.floor(total / 12);
   const nm = (total % 12) + 1;
   return `${ny}-${String(nm).padStart(2, "0")}`;
+}
+
+function monthSpan(fromYm: string, toYm: string): number {
+  const [fy, fm] = fromYm.split("-").map(Number);
+  const [ty, tm] = toYm.split("-").map(Number);
+  return ty * 12 + tm - (fy * 12 + fm);
 }

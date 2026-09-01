@@ -76,7 +76,7 @@ export default function Landing() {
         <div className="l-hero-inner">
           <div>
             <p className="l-eyebrow">Nigeria food-price intelligence</p>
-            <h1>Food prices, clearly mapped — and projected ahead.</h1>
+            <h1>Food prices, clearly mapped and projected ahead.</h1>
             <p className="l-hero-sub">
               Explore historical staple prices across Nigerian markets from WFP / HDX, then forecast
               where the market is headed using Nigeria&apos;s live inflation, exchange-rate and financing data.

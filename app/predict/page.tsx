@@ -33,6 +33,8 @@ export default function Predict() {
 
   const commodities = useMemo(() => [...new Set(rows.map((r) => r.commodity).filter(Boolean))].sort(), [rows]);
   const active = commodity === "" ? (commodities[0] ?? "") : commodity;
+  const activeRow = rows.find((r) => r.commodity === active);
+  const activeUnit = activeRow?.unit || "";
 
   const result = useMemo(() => {
     if (!active || rows.length === 0) return null;
@@ -128,7 +130,7 @@ export default function Predict() {
                       return (
                         <tr key={p.date}>
                           <td data-label="Month">{formatMonth(p.date)}</td>
-                          <td data-label="Predicted price" className="price">₦{p.price.toLocaleString()}</td>
+                          <td data-label="Predicted price" className="price">₦{p.price.toLocaleString()}{activeUnit ? ` / ${activeUnit}` : ""}</td>
                           <td data-label="vs base">{pct >= 0 ? "+" : ""}{pct.toFixed(1)}%</td>
                         </tr>
                       );
@@ -139,7 +141,8 @@ export default function Predict() {
                 <div className="model-box">
                   <h3>Model assumptions</h3>
                   <ul>
-                    <li>Base price (last 3 months): <strong>₦{result.inputs.basePrice.toLocaleString()}</strong></li>
+                    <li>Base price (last 3 months): <strong>₦{result.inputs.basePrice.toLocaleString()}{activeUnit ? ` / ${activeUnit}` : ""}</strong></li>
+                    <li>Last observation: <strong>{result.inputs.lastObserved || "—"}</strong></li>
                     <li>Historical monthly trend: <strong>{(result.inputs.historicalMonthlyTrend * 100).toFixed(2)}%</strong></li>
                     <li>Inflation (annual): <strong>{result.inputs.inflationAnnual != null ? result.inputs.inflationAnnual.toFixed(1) + "%" : "—"}</strong></li>
                     <li>FX change (annual): <strong>{result.inputs.fxChangeAnnual != null ? (result.inputs.fxChangeAnnual * 100 >= 0 ? "+" : "") + (result.inputs.fxChangeAnnual * 100).toFixed(1) + "%" : "—"}</strong></li>
@@ -147,6 +150,7 @@ export default function Predict() {
                     <li>Blended monthly rate: <strong>{(result.inputs.blendedMonthlyRate * 100).toFixed(2)}%</strong></li>
                   </ul>
                   <p className="formula">P<sub>k</sub> = P<sub>0</sub> × (1 + r)<sup>k</sup>, where r = min(6%, 0.5·trend + 0.5·(inflation + 0.5·FX + 0.3·carry))</p>
+                  {result.warnings.length > 0 && <p className="model-note">{result.warnings.join(" · ")}</p>}
                 </div>
               </div>
             )}
@@ -157,7 +161,7 @@ export default function Predict() {
                   <CartesianGrid strokeDasharray="3 3" stroke="#e8eee8" />
                   <XAxis dataKey="date" tick={{ fontSize: 11 }} />
                   <YAxis tick={{ fontSize: 11 }} />
-                  <Tooltip formatter={(v: number) => [`₦${v.toLocaleString()}`, "Price"]} />
+                  <Tooltip formatter={(v: number) => [`₦${v.toLocaleString()}${activeUnit ? ` / ${activeUnit}` : ""}`, "Price"]} />
                   {result && <ReferenceLine x={result.forecast[0]?.date} stroke="#c9a227" strokeDasharray="4 4" />}
                   <Line type="monotone" dataKey="actual" name="Historical" stroke="#1d6b46" strokeWidth={2.5} dot={false} />
                   <Line type="monotone" dataKey="predicted" name="Forecast" stroke="#d97706" strokeWidth={2.5} strokeDasharray="6 4" dot={false} />

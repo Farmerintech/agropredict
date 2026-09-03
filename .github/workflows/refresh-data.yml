@@ -26,14 +26,25 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Fetch and normalize prices
         run: python scripts/fetch_wfp_hdx.py
+
+      # The agrocast app fetches its price history from this repo when online.
+      # Build a compact monthly snapshot (normalized per kg/litre, not the raw
+      # 4.7 MB CSV) so the app can mirror the latest data without the download.
+      - name: Build agrocast snapshot JSON
+        run: node scripts/build_market_snapshot.js --emit json --csv data/wfp_nigeria_normalized.csv --out data/agrocast-market.json
 
       - name: Commit updated data (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/wfp_nigeria_normalized.csv
+          git add data/wfp_nigeria_normalized.csv data/agrocast-market.json
           if git diff --cached --quiet; then
             echo "No price changes — nothing to commit."
           else

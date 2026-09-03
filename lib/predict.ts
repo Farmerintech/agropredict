@@ -1,5 +1,4 @@
 import type { MacroSnapshot } from "@/lib/macro";
-import type { PriceObservation } from "@/lib/prices";
 
 export type Point = { date: string; price: number };
 export type ForecastInputs = {
@@ -18,7 +17,16 @@ export type ForecastResult = {
   warnings: string[];
 };
 
-// Tunable model coefficients.
+// A monthly national series for one commodity, in a single normalized unit
+// (per kg / per litre / per count). Produced by scripts/build_market_snapshot.js
+// and published at data/agrocast-market.json — the same snapshot the agrocast
+// app predicts from, so the web forecast mirrors the app forecast.
+export type MarketCommodity = {
+  unit: string;
+  months: Point[];
+};
+
+// Tunable model coefficients (mirror of the app / market.ts).
 const FX_PASSTHROUGH = 0.5; // share of naira depreciation passed into prices
 const CARRY_WEIGHT = 0.3; // weight of financing/storage cost
 const TREND_WEIGHT = 0.5; // blend: historical trend vs macro-driven rate
@@ -34,15 +42,47 @@ const EMPTY_INPUTS: ForecastInputs = {
   lastObserved: "",
 };
 
-export function predictPrices(
-  rows: PriceObservation[],
+export function currentMonthKey(now = new Date()): string {
+  return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`;
+}
+
+export function addMonths(ym: string, n: number): string {
+  const [y, m] = ym.split("-").map(Number);
+  const total = y * 12 + (m - 1) + n;
+  const ny = Math.floor(total / 12);
+  const nm = (total % 12) + 1;
+  return `${ny}-${String(nm).padStart(2, "0")}`;
+}
+
+function monthSpan(fromYm: string, toYm: string): number {
+  const [fy, fm] = fromYm.split("-").map(Number);
+  const [ty, tm] = toYm.split("-").map(Number);
+  return ty * 12 + tm - (fy * 12 + fm);
+}
+
+function latestValue(series: { value: number | null }[]): number | null {
+  return series.find((p) => p.value != null)?.value ?? null;
+}
+
+function fxYearOverYear(series: { value: number | null }[]): number | null {
+  const values = series.filter((p) => p.value != null).map((p) => p.value as number);
+  if (values.length < 2) return null;
+  return values[0] / values[1] - 1;
+}
+
+/**
+ * Forecast a commodity from its monthly national series (normalized, cleaned —
+ * dead surveys and in-progress trailing months already removed). Mirrors the
+ * agrocast app's predictCommodity so both surfaces return the same numbers.
+ */
+export function predictCommodity(
+  commodity: MarketCommodity,
   macro: MacroSnapshot | null,
   horizon: number,
   costOfCapitalOverride?: number
 ): ForecastResult {
   const warnings: string[] = [];
-
-  const monthly = aggregateMonthly(rows);
+  const monthly = commodity.months;
   if (monthly.length === 0) {
     return { history: [], forecast: [], inputs: EMPTY_INPUTS, warnings: ["No historical data for this commodity."] };
   }
@@ -71,13 +111,7 @@ export function predictPrices(
   const blended = Math.min(MAX_MONTHLY, TREND_WEIGHT * gHist + (1 - TREND_WEIGHT) * macroM);
 
   const lastMonth = monthly[monthly.length - 1].date;
-
-  // Forecast from the last observed month through the current month plus the
-  // requested horizon. Commodities whose data ends before today (e.g. some WFP
-  // series stop years ago) still get a prediction spanning the current year,
-  // bridged from their own last available observations.
-  const now = new Date();
-  const currentMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`;
+  const currentMonth = currentMonthKey();
   const endMonth = addMonths(currentMonth, horizon);
   const monthsAhead = Math.max(horizon, monthSpan(lastMonth, endMonth));
   const bridgeMonths = monthSpan(lastMonth, currentMonth);
@@ -109,42 +143,8 @@ export function predictPrices(
   };
 }
 
-function aggregateMonthly(rows: PriceObservation[]): Point[] {
-  const map = new Map<string, { sum: number; count: number }>();
-  for (const r of rows) {
-    const v = Number(r.price_naira);
-    if (!Number.isFinite(v)) continue;
-    const key = r.observation_date.slice(0, 7);
-    const cur = map.get(key) || { sum: 0, count: 0 };
-    cur.sum += v;
-    cur.count += 1;
-    map.set(key, cur);
-  }
-  return [...map.entries()]
-    .map(([date, { sum, count }]) => ({ date, price: sum / count }))
-    .sort((a, b) => a.date.localeCompare(b.date));
-}
-
-function latestValue(series: { value: number | null }[]): number | null {
-  return series.find((p) => p.value != null)?.value ?? null;
-}
-
-function fxYearOverYear(series: { value: number | null }[]): number | null {
-  const values = series.filter((p) => p.value != null).map((p) => p.value as number);
-  if (values.length < 2) return null;
-  return values[0] / values[1] - 1;
-}
-
-function addMonths(ym: string, n: number): string {
-  const [y, m] = ym.split("-").map(Number);
-  const total = y * 12 + (m - 1) + n;
-  const ny = Math.floor(total / 12);
-  const nm = (total % 12) + 1;
-  return `${ny}-${String(nm).padStart(2, "0")}`;
-}
-
-function monthSpan(fromYm: string, toYm: string): number {
-  const [fy, fm] = fromYm.split("-").map(Number);
-  const [ty, tm] = toYm.split("-").map(Number);
-  return ty * 12 + tm - (fy * 12 + fm);
+/** Forecast points for months strictly ahead of today, up to the horizon. */
+export function futureForecast(forecast: Point[], horizon: number): Point[] {
+  const currentMonth = currentMonthKey();
+  return forecast.filter((p) => p.date > currentMonth).slice(0, horizon);
 }

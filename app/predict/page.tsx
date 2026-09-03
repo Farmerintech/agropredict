@@ -4,9 +4,9 @@ import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianG
 import AppShell from "@/components/AppShell";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import type { MacroSnapshot } from "@/lib/macro";
-import { predictPrices } from "@/lib/predict";
+import { futureForecast, predictCommodity, type MarketCommodity } from "@/lib/predict";
 
-type Row = { commodity: string; state: string; market: string; price_naira: string; unit: string; observation_date: string; source: string };
+type Snapshot = { date: string; commodities: Record<string, MarketCommodity> };
 
 const HORIZONS = [3, 6, 12, 24];
 const MONTH_NAMES = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
@@ -14,43 +14,54 @@ const MONTH_NAMES = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Se
 const EMPTY_MACRO: MacroSnapshot = { inflation: [], exchangeRate: [], lendingRate: [], currentFx: null, fetchedAt: "", errors: [] };
 
 export default function Predict() {
-  const [rows, setRows] = useState<Row[]>([]);
+  const [snapshot, setSnapshot] = useState<Snapshot | null>(null);
   const [macro, setMacro] = useState<MacroSnapshot>(EMPTY_MACRO);
   const [commodity, setCommodity] = useState("");
   const [horizon, setHorizon] = useState(12);
   const [coc, setCoc] = useState("");
 
   useEffect(() => {
-    fetch("/api/prices")
+    fetch("/api/snapshot")
       .then((r) => r.json())
-      .then((d) => setRows(d.data || []))
-      .catch(() => setRows([]));
+      .then(setSnapshot)
+      .catch(() => setSnapshot(null));
     fetch("/api/macro")
       .then((r) => r.json())
       .then(setMacro)
       .catch(() => setMacro(EMPTY_MACRO));
   }, []);
 
-  const commodities = useMemo(() => [...new Set(rows.map((r) => r.commodity).filter(Boolean))].sort(), [rows]);
+  // Mirror the app: commodities come from the cleaned monthly snapshot (unit
+  // normalized, dead surveys and in-progress trailing months already dropped).
+  const commodities = useMemo(
+    () => (snapshot ? Object.keys(snapshot.commodities).sort((a, b) => a.localeCompare(b)) : []),
+    [snapshot]
+  );
   const active = commodity === "" ? (commodities[0] ?? "") : commodity;
-  const activeRow = rows.find((r) => r.commodity === active);
-  const activeUnit = activeRow?.unit || "";
+  const activeCommodity = snapshot?.commodities[active] ?? null;
+  const unit = activeCommodity?.unit ?? "";
 
   const result = useMemo(() => {
-    if (!active || rows.length === 0) return null;
-    const rowsFor = rows.filter((r) => r.commodity === active);
+    if (!activeCommodity || activeCommodity.months.length === 0) return null;
     const parsed = Number(coc);
     const override = coc === "" || !Number.isFinite(parsed) ? undefined : parsed;
-    return predictPrices(rowsFor, macro, horizon, override);
-  }, [rows, active, macro, horizon, coc]);
+    return predictCommodity(activeCommodity, macro, horizon, override);
+  }, [activeCommodity, macro, horizon, coc]);
+
+  // Strictly-future months, exactly like the app's Month-by-month table.
+  const future = useMemo(() => (result ? futureForecast(result.forecast, horizon) : []), [result, horizon]);
 
   const chartData = useMemo(() => {
     if (!result) return [];
-    return [
-      ...result.history.map((p) => ({ date: p.date, actual: p.price, predicted: null as number | null })),
-      ...result.forecast.map((p) => ({ date: p.date, actual: null as number | null, predicted: p.price })),
-    ];
-  }, [result]);
+    const byDate = new Map<string, { date: string; actual: number | null; predicted: number | null }>();
+    result.history.forEach((p) => byDate.set(p.date, { date: p.date, actual: p.price, predicted: null }));
+    future.forEach((p) => {
+      const row = byDate.get(p.date) ?? { date: p.date, actual: null as number | null, predicted: null as number | null };
+      row.predicted = p.price;
+      byDate.set(p.date, row);
+    });
+    return [...byDate.values()].sort((a, b) => a.date.localeCompare(b.date));
+  }, [result, future]);
 
   const latestInflation = latest(macro.inflation);
   const latestLending = latest(macro.lendingRate);
@@ -61,7 +72,7 @@ export default function Predict() {
       <section className="intro">
             <p className="eyebrow">PRICE FORECAST</p>
             <h1>Where is the market headed?</h1>
-            <p className="lede">Project next-month prices from historical observations plus live inflation, exchange-rate and cost-of-capital conditions for Nigeria.</p>
+            <p className="lede">Project next-month prices from the cleaned WFP/HDX monthly snapshot plus live inflation, exchange-rate and cost-of-capital conditions for Nigeria. History is normalized to a single unit per commodity, matching the agrocast app.</p>
           </section>
           <section className="workspace">
             <div className="workspace-head">
@@ -117,7 +128,8 @@ export default function Predict() {
               <div className="card"><span className="k">FX change (YoY)</span><span className="v">{fxYoY != null ? `${fxYoY >= 0 ? "+" : ""}${(fxYoY * 100).toFixed(1)}%` : "—"}</span></div>
             </div>
 
-            {result && (
+            {result ? (
+              <>
               <div className="forecast-wrap">
                 <div className="forecast-scroll">
                   <table className="forecast-table">
@@ -125,12 +137,14 @@ export default function Predict() {
                     <tr>{["Month", "Predicted price", "vs base"].map((h) => <th key={h}>{h}</th>)}</tr>
                   </thead>
                   <tbody>
-                    {result.forecast.map((p) => {
+                    {future.length === 0 ? (
+                      <tr><td colSpan={3} className="date">No months ahead of the current month yet — the latest observation is {result.inputs.lastObserved || "—"}.</td></tr>
+                    ) : future.map((p) => {
                       const pct = (p.price / result.inputs.basePrice - 1) * 100;
                       return (
                         <tr key={p.date}>
                           <td data-label="Month">{formatMonth(p.date)}</td>
-                          <td data-label="Predicted price" className="price">₦{p.price.toLocaleString()}{activeUnit ? ` / ${activeUnit}` : ""}</td>
+                          <td data-label="Predicted price" className="price">₦{p.price.toLocaleString()}{unit ? ` / ${unit}` : ""}</td>
                           <td data-label="vs base">{pct >= 0 ? "+" : ""}{pct.toFixed(1)}%</td>
                         </tr>
                       );
@@ -141,7 +155,7 @@ export default function Predict() {
                 <div className="model-box">
                   <h3>Model assumptions</h3>
                   <ul>
-                    <li>Base price (last 3 months): <strong>₦{result.inputs.basePrice.toLocaleString()}{activeUnit ? ` / ${activeUnit}` : ""}</strong></li>
+                    <li>Base price (last 3 months): <strong>₦{result.inputs.basePrice.toLocaleString()}{unit ? ` / ${unit}` : ""}</strong></li>
                     <li>Last observation: <strong>{result.inputs.lastObserved || "—"}</strong></li>
                     <li>Historical monthly trend: <strong>{(result.inputs.historicalMonthlyTrend * 100).toFixed(2)}%</strong></li>
                     <li>Inflation (annual): <strong>{result.inputs.inflationAnnual != null ? result.inputs.inflationAnnual.toFixed(1) + "%" : "—"}</strong></li>
@@ -153,23 +167,28 @@ export default function Predict() {
                   {result.warnings.length > 0 && <p className="model-note">{result.warnings.join(" · ")}</p>}
                 </div>
               </div>
-            )}
 
-            <div className="chart">
-              <ResponsiveContainer width="100%" height="100%">
-                <LineChart data={chartData}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="#e8eee8" />
-                  <XAxis dataKey="date" tick={{ fontSize: 11 }} />
-                  <YAxis tick={{ fontSize: 11 }} />
-                  <Tooltip formatter={(v: number) => [`₦${v.toLocaleString()}${activeUnit ? ` / ${activeUnit}` : ""}`, "Price"]} />
-                  {result && <ReferenceLine x={result.forecast[0]?.date} stroke="#c9a227" strokeDasharray="4 4" />}
-                  <Line type="monotone" dataKey="actual" name="Historical" stroke="#1d6b46" strokeWidth={2.5} dot={false} />
-                  <Line type="monotone" dataKey="predicted" name="Forecast" stroke="#d97706" strokeWidth={2.5} strokeDasharray="6 4" dot={false} />
-                </LineChart>
-              </ResponsiveContainer>
-            </div>
+              <div className="chart">
+                <ResponsiveContainer width="100%" height="100%">
+                  <LineChart data={chartData}>
+                    <CartesianGrid strokeDasharray="3 3" stroke="#e8eee8" />
+                    <XAxis dataKey="date" tick={{ fontSize: 11 }} />
+                    <YAxis tick={{ fontSize: 11 }} />
+                    <Tooltip formatter={(v: number) => [`₦${v.toLocaleString()}${unit ? ` / ${unit}` : ""}`, "Price"]} />
+                    {future.length > 0 && <ReferenceLine x={future[0]?.date} stroke="#c9a227" strokeDasharray="4 4" />}
+                    <Line type="monotone" dataKey="actual" name="Historical" stroke="#1d6b46" strokeWidth={2.5} dot={false} connectNulls={false} />
+                    <Line type="monotone" dataKey="predicted" name="Forecast" stroke="#d97706" strokeWidth={2.5} strokeDasharray="6 4" dot={false} connectNulls={false} />
+                  </LineChart>
+                </ResponsiveContainer>
+              </div>
+              </>
+            ) : (
+              <div className="chart chart-empty">
+                <p className="empty-note">{snapshot && commodities.length === 0 ? "No cleaned price history available." : "Loading the price snapshot…"}</p>
+              </div>
+            )}
           </section>
-          <footer>Forecast is a simple trend + macro model, not financial advice. Prices in naira.</footer>
+          <footer>Forecast is a simple trend + macro model, not financial advice. Prices in naira per the commodity's normalized unit, from the same WFP/HDX monthly snapshot the agrocast app uses.</footer>
     </AppShell>
   );
 }

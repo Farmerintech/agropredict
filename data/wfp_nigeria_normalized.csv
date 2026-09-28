@@ -2850,7 +2850,6 @@ Yam,Abia,Aba,350,2.5 KG,2014-08-01,wfp_hdx
 Fuel (diesel),Abia,Aba,160,L,2014-08-01,wfp_hdx
 Fuel (petrol-gasoline),Abia,Aba,97,L,2014-08-01,wfp_hdx
 Oil (palm),Abia,Aba,4000,L,2014-08-01,wfp_hdx
-Bread,Borno,Maiduguri,285.71,Unit,2014-08-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,9250,100 KG,2014-08-01,wfp_hdx
 Gari (white),Borno,Maiduguri,8750,100 KG,2014-08-01,wfp_hdx
 Maize (white),Borno,Maiduguri,7000,100 KG,2014-08-01,wfp_hdx
@@ -3968,7 +3967,6 @@ Maize,Jigawa,Mai Gatari (CBM),177.66,KG,2015-01-01,wfp_hdx
 Millet,Jigawa,Mai Gatari (CBM),129.92,KG,2015-01-01,wfp_hdx
 Rice (imported),Jigawa,Mai Gatari (CBM),422.98,KG,2015-01-01,wfp_hdx
 Sorghum,Jigawa,Mai Gatari (CBM),113.3,KG,2015-01-01,wfp_hdx
-Bread,Kaduna,Giwa,166.66,Unit,2015-01-01,wfp_hdx
 Gari (white),Kaduna,Giwa,9445,100 KG,2015-01-01,wfp_hdx
 Maize (white),Kaduna,Giwa,3560,100 KG,2015-01-01,wfp_hdx
 Maize (yellow),Kaduna,Giwa,4160,100 KG,2015-01-01,wfp_hdx
@@ -9252,7 +9250,6 @@ Onions,Borno,Kusawam Shanu,50,0.5 KG,2016-08-01,wfp_hdx
 Oranges,Borno,Kusawam Shanu,83.3,400 G,2016-08-01,wfp_hdx
 Spinach,Borno,Kusawam Shanu,20,300 G,2016-08-01,wfp_hdx
 Watermelons,Borno,Kusawam Shanu,300,2.1 KG,2016-08-01,wfp_hdx
-Bread,Borno,Maiduguri,348,Unit,2016-08-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,14600,100 KG,2016-08-01,wfp_hdx
 Gari (white),Borno,Maiduguri,12224,100 KG,2016-08-01,wfp_hdx
 Maize (white),Borno,Maiduguri,13240,100 KG,2016-08-01,wfp_hdx
@@ -23075,7 +23072,6 @@ Onions,Borno,Kusawam Shanu,100,0.5 KG,2018-07-01,wfp_hdx
 Oranges,Borno,Kusawam Shanu,100,400 G,2018-07-01,wfp_hdx
 Tomatoes,Borno,Kusawam Shanu,100,0.5 KG,2018-07-01,wfp_hdx
 Watermelons,Borno,Kusawam Shanu,325,2.1 KG,2018-07-01,wfp_hdx
-Bread,Borno,Maiduguri,144.5,Unit,2018-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,13900,100 KG,2018-07-01,wfp_hdx
 Gari (white),Borno,Maiduguri,10000,100 KG,2018-07-01,wfp_hdx
 Maize (white),Borno,Maiduguri,11875,100 KG,2018-07-01,wfp_hdx
@@ -23788,7 +23784,6 @@ Onions,Borno,Kusawam Shanu,150,0.5 KG,2018-08-01,wfp_hdx
 Oranges,Borno,Kusawam Shanu,103.9,400 G,2018-08-01,wfp_hdx
 Tomatoes,Borno,Kusawam Shanu,125,0.5 KG,2018-08-01,wfp_hdx
 Watermelons,Borno,Kusawam Shanu,408.3,2.1 KG,2018-08-01,wfp_hdx
-Bread,Borno,Maiduguri,149.2,Unit,2018-08-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,12160,100 KG,2018-08-01,wfp_hdx
 Gari (white),Borno,Maiduguri,8800,100 KG,2018-08-01,wfp_hdx
 Maize (white),Borno,Maiduguri,10280,100 KG,2018-08-01,wfp_hdx
@@ -26799,7 +26794,6 @@ Oil (palm),Kano,Dawanau,511.67,L,2018-12-01,wfp_hdx
 Cowpeas (brown),Kano,Dawanau,26227.5,100 KG,2018-12-01,wfp_hdx
 Cowpeas (white),Kano,Dawanau,23965,100 KG,2018-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,8192.5,100 KG,2018-12-01,wfp_hdx
-Bread,Katsina,Dandume,400,Unit,2018-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,10000,100 KG,2018-12-01,wfp_hdx
 Gari (white),Katsina,Dandume,10000,100 KG,2018-12-01,wfp_hdx
 Maize (white),Katsina,Dandume,7480,100 KG,2018-12-01,wfp_hdx
@@ -47317,7 +47311,6 @@ Cowpeas (white),Kano,Dawanau,36728,100 KG,2021-12-01,wfp_hdx
 Cowpeas (white),Kano,Dawanau,379.9,KG,2021-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,49928,100 KG,2021-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,526.46,KG,2021-12-01,wfp_hdx
-Bread,Katsina,Dandume,400,Unit,2021-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,16584,100 KG,2021-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,228.57,KG,2021-12-01,wfp_hdx
 Maize (white),Katsina,Dandume,19984,100 KG,2021-12-01,wfp_hdx
@@ -54781,7 +54774,6 @@ Cowpeas (white),Borno,Biu,23256.77,100 KG,2020-07-01,wfp_hdx
 Cowpeas (white),Borno,Biu,222.08,KG,2020-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,35094.19,100 KG,2020-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,331.47,KG,2020-07-01,wfp_hdx
-Bread,Borno,Maiduguri,180,Unit,2020-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,20838.71,100 KG,2020-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,416.57,KG,2020-07-01,wfp_hdx
 Gari (white),Borno,Maiduguri,15322.58,100 KG,2020-07-01,wfp_hdx
@@ -57403,7 +57395,6 @@ Cowpeas (white),Jigawa,Gujungu,23806.45,100 KG,2021-01-01,wfp_hdx
 Cowpeas (white),Jigawa,Gujungu,254.16,KG,2021-01-01,wfp_hdx
 Groundnuts (shelled),Jigawa,Gujungu,34038.71,100 KG,2021-01-01,wfp_hdx
 Groundnuts (shelled),Jigawa,Gujungu,353.07,KG,2021-01-01,wfp_hdx
-Bread,Kaduna,Giwa,200,Unit,2021-01-01,wfp_hdx
 Gari (white),Kaduna,Giwa,18354.84,100 KG,2021-01-01,wfp_hdx
 Gari (white),Kaduna,Giwa,208.33,KG,2021-01-01,wfp_hdx
 Maize (white),Kaduna,Giwa,16890.32,100 KG,2021-01-01,wfp_hdx
@@ -64647,7 +64638,6 @@ Cowpeas (white),Borno,Biu,45503.23,100 KG,2022-07-01,wfp_hdx
 Cowpeas (white),Borno,Biu,339.08,KG,2022-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,60400,100 KG,2022-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,529.41,KG,2022-07-01,wfp_hdx
-Bread,Borno,Maiduguri,243.35,Unit,2022-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,27322.58,100 KG,2022-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,482.47,KG,2022-07-01,wfp_hdx
 Gari (white),Borno,Maiduguri,21161.29,100 KG,2022-07-01,wfp_hdx
@@ -67131,7 +67121,6 @@ Cowpeas (white),Kano,Dawanau,40519.03,100 KG,2022-12-01,wfp_hdx
 Cowpeas (white),Kano,Dawanau,392.6,KG,2022-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,59577.42,100 KG,2022-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,624.19,KG,2022-12-01,wfp_hdx
-Bread,Katsina,Dandume,220,Unit,2022-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,20832.26,100 KG,2022-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,300.71,KG,2022-12-01,wfp_hdx
 Maize (white),Katsina,Dandume,18801.94,100 KG,2022-12-01,wfp_hdx

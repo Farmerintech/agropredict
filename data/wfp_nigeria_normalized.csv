@@ -2850,6 +2850,7 @@ Yam,Abia,Aba,350,2.5 KG,2014-08-01,wfp_hdx
 Fuel (diesel),Abia,Aba,160,L,2014-08-01,wfp_hdx
 Fuel (petrol-gasoline),Abia,Aba,97,L,2014-08-01,wfp_hdx
 Oil (palm),Abia,Aba,4000,L,2014-08-01,wfp_hdx
+Bread,Borno,Maiduguri,285.71,Unit,2014-08-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,9250,100 KG,2014-08-01,wfp_hdx
 Gari (white),Borno,Maiduguri,8750,100 KG,2014-08-01,wfp_hdx
 Maize (white),Borno,Maiduguri,7000,100 KG,2014-08-01,wfp_hdx
@@ -3967,6 +3968,7 @@ Maize,Jigawa,Mai Gatari (CBM),177.66,KG,2015-01-01,wfp_hdx
 Millet,Jigawa,Mai Gatari (CBM),129.92,KG,2015-01-01,wfp_hdx
 Rice (imported),Jigawa,Mai Gatari (CBM),422.98,KG,2015-01-01,wfp_hdx
 Sorghum,Jigawa,Mai Gatari (CBM),113.3,KG,2015-01-01,wfp_hdx
+Bread,Kaduna,Giwa,166.66,Unit,2015-01-01,wfp_hdx
 Gari (white),Kaduna,Giwa,9445,100 KG,2015-01-01,wfp_hdx
 Maize (white),Kaduna,Giwa,3560,100 KG,2015-01-01,wfp_hdx
 Maize (yellow),Kaduna,Giwa,4160,100 KG,2015-01-01,wfp_hdx
@@ -9250,6 +9252,7 @@ Onions,Borno,Kusawam Shanu,50,0.5 KG,2016-08-01,wfp_hdx
 Oranges,Borno,Kusawam Shanu,83.3,400 G,2016-08-01,wfp_hdx
 Spinach,Borno,Kusawam Shanu,20,300 G,2016-08-01,wfp_hdx
 Watermelons,Borno,Kusawam Shanu,300,2.1 KG,2016-08-01,wfp_hdx
+Bread,Borno,Maiduguri,348,Unit,2016-08-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,14600,100 KG,2016-08-01,wfp_hdx
 Gari (white),Borno,Maiduguri,12224,100 KG,2016-08-01,wfp_hdx
 Maize (white),Borno,Maiduguri,13240,100 KG,2016-08-01,wfp_hdx
@@ -23072,6 +23075,7 @@ Onions,Borno,Kusawam Shanu,100,0.5 KG,2018-07-01,wfp_hdx
 Oranges,Borno,Kusawam Shanu,100,400 G,2018-07-01,wfp_hdx
 Tomatoes,Borno,Kusawam Shanu,100,0.5 KG,2018-07-01,wfp_hdx
 Watermelons,Borno,Kusawam Shanu,325,2.1 KG,2018-07-01,wfp_hdx
+Bread,Borno,Maiduguri,144.5,Unit,2018-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,13900,100 KG,2018-07-01,wfp_hdx
 Gari (white),Borno,Maiduguri,10000,100 KG,2018-07-01,wfp_hdx
 Maize (white),Borno,Maiduguri,11875,100 KG,2018-07-01,wfp_hdx
@@ -23784,6 +23788,7 @@ Onions,Borno,Kusawam Shanu,150,0.5 KG,2018-08-01,wfp_hdx
 Oranges,Borno,Kusawam Shanu,103.9,400 G,2018-08-01,wfp_hdx
 Tomatoes,Borno,Kusawam Shanu,125,0.5 KG,2018-08-01,wfp_hdx
 Watermelons,Borno,Kusawam Shanu,408.3,2.1 KG,2018-08-01,wfp_hdx
+Bread,Borno,Maiduguri,149.2,Unit,2018-08-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,12160,100 KG,2018-08-01,wfp_hdx
 Gari (white),Borno,Maiduguri,8800,100 KG,2018-08-01,wfp_hdx
 Maize (white),Borno,Maiduguri,10280,100 KG,2018-08-01,wfp_hdx
@@ -26794,6 +26799,7 @@ Oil (palm),Kano,Dawanau,511.67,L,2018-12-01,wfp_hdx
 Cowpeas (brown),Kano,Dawanau,26227.5,100 KG,2018-12-01,wfp_hdx
 Cowpeas (white),Kano,Dawanau,23965,100 KG,2018-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,8192.5,100 KG,2018-12-01,wfp_hdx
+Bread,Katsina,Dandume,400,Unit,2018-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,10000,100 KG,2018-12-01,wfp_hdx
 Gari (white),Katsina,Dandume,10000,100 KG,2018-12-01,wfp_hdx
 Maize (white),Katsina,Dandume,7480,100 KG,2018-12-01,wfp_hdx
@@ -47311,6 +47317,7 @@ Cowpeas (white),Kano,Dawanau,36728,100 KG,2021-12-01,wfp_hdx
 Cowpeas (white),Kano,Dawanau,379.9,KG,2021-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,49928,100 KG,2021-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,526.46,KG,2021-12-01,wfp_hdx
+Bread,Katsina,Dandume,400,Unit,2021-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,16584,100 KG,2021-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,228.57,KG,2021-12-01,wfp_hdx
 Maize (white),Katsina,Dandume,19984,100 KG,2021-12-01,wfp_hdx
@@ -54774,6 +54781,7 @@ Cowpeas (white),Borno,Biu,23256.77,100 KG,2020-07-01,wfp_hdx
 Cowpeas (white),Borno,Biu,222.08,KG,2020-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,35094.19,100 KG,2020-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,331.47,KG,2020-07-01,wfp_hdx
+Bread,Borno,Maiduguri,180,Unit,2020-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,20838.71,100 KG,2020-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,416.57,KG,2020-07-01,wfp_hdx
 Gari (white),Borno,Maiduguri,15322.58,100 KG,2020-07-01,wfp_hdx
@@ -57395,6 +57403,7 @@ Cowpeas (white),Jigawa,Gujungu,23806.45,100 KG,2021-01-01,wfp_hdx
 Cowpeas (white),Jigawa,Gujungu,254.16,KG,2021-01-01,wfp_hdx
 Groundnuts (shelled),Jigawa,Gujungu,34038.71,100 KG,2021-01-01,wfp_hdx
 Groundnuts (shelled),Jigawa,Gujungu,353.07,KG,2021-01-01,wfp_hdx
+Bread,Kaduna,Giwa,200,Unit,2021-01-01,wfp_hdx
 Gari (white),Kaduna,Giwa,18354.84,100 KG,2021-01-01,wfp_hdx
 Gari (white),Kaduna,Giwa,208.33,KG,2021-01-01,wfp_hdx
 Maize (white),Kaduna,Giwa,16890.32,100 KG,2021-01-01,wfp_hdx
@@ -64638,6 +64647,7 @@ Cowpeas (white),Borno,Biu,45503.23,100 KG,2022-07-01,wfp_hdx
 Cowpeas (white),Borno,Biu,339.08,KG,2022-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,60400,100 KG,2022-07-01,wfp_hdx
 Groundnuts (shelled),Borno,Biu,529.41,KG,2022-07-01,wfp_hdx
+Bread,Borno,Maiduguri,243.35,Unit,2022-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,27322.58,100 KG,2022-07-01,wfp_hdx
 "Cassava meal (gari, yellow)",Borno,Maiduguri,482.47,KG,2022-07-01,wfp_hdx
 Gari (white),Borno,Maiduguri,21161.29,100 KG,2022-07-01,wfp_hdx
@@ -67121,6 +67131,7 @@ Cowpeas (white),Kano,Dawanau,40519.03,100 KG,2022-12-01,wfp_hdx
 Cowpeas (white),Kano,Dawanau,392.6,KG,2022-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,59577.42,100 KG,2022-12-01,wfp_hdx
 Groundnuts (shelled),Kano,Dawanau,624.19,KG,2022-12-01,wfp_hdx
+Bread,Katsina,Dandume,220,Unit,2022-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,20832.26,100 KG,2022-12-01,wfp_hdx
 "Cassava meal (gari, yellow)",Katsina,Dandume,300.71,KG,2022-12-01,wfp_hdx
 Maize (white),Katsina,Dandume,18801.94,100 KG,2022-12-01,wfp_hdx
@@ -88121,56 +88132,59 @@ Beans (red),Borno,Damboa,2350,2.5 KG,2026-06-01,wfp_hdx
 Onions,Borno,Damboa,550,0.5 KG,2026-06-01,wfp_hdx
 Oranges,Borno,Damboa,200,400 G,2026-06-01,wfp_hdx
 Spinach,Borno,Damboa,225,300 G,2026-06-01,wfp_hdx
-Maize flour,Borno,Monguno,2000,2.1 KG,2026-06-01,wfp_hdx
-Millet,Borno,Monguno,1100,2.6 KG,2026-06-01,wfp_hdx
-Rice (local),Borno,Monguno,4000,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Borno,Monguno,950,2.7 KG,2026-06-01,wfp_hdx
+Maize flour,Borno,Monguno,2177.78,2.1 KG,2026-06-01,wfp_hdx
+Millet,Borno,Monguno,1144.44,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Borno,Monguno,3500,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Borno,Monguno,3777.78,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Borno,Monguno,894.44,2.7 KG,2026-06-01,wfp_hdx
 Yam,Borno,Monguno,4000,2.5 KG,2026-06-01,wfp_hdx
 Eggs,Borno,Monguno,6500,30 pcs,2026-06-01,wfp_hdx
-Fish,Borno,Monguno,800,KG,2026-06-01,wfp_hdx
-Meat (beef),Borno,Monguno,9500,KG,2026-06-01,wfp_hdx
-Meat (goat),Borno,Monguno,12000,KG,2026-06-01,wfp_hdx
+Fish,Borno,Monguno,1066.67,KG,2026-06-01,wfp_hdx
+Meat (beef),Borno,Monguno,8944.44,KG,2026-06-01,wfp_hdx
+Meat (goat),Borno,Monguno,12333.33,KG,2026-06-01,wfp_hdx
 Milk (powder),Borno,Monguno,4000,400 G,2026-06-01,wfp_hdx
-Salt,Borno,Monguno,300,250 G,2026-06-01,wfp_hdx
-Seasoning (maggi cube),Borno,Monguno,1600,400 G,2026-06-01,wfp_hdx
-Sugar,Borno,Monguno,1150,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Borno,Monguno,2000,L,2026-06-01,wfp_hdx
-Oil (palm),Borno,Monguno,3000,L,2026-06-01,wfp_hdx
-Oil (vegetable),Borno,Monguno,3500,L,2026-06-01,wfp_hdx
-Beans (red),Borno,Monguno,3000,2.5 KG,2026-06-01,wfp_hdx
-Beans (white),Borno,Monguno,2850,2.5 KG,2026-06-01,wfp_hdx
-Cowpeas,Borno,Monguno,2500,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Borno,Monguno,4000,2.2 KG,2026-06-01,wfp_hdx
+Salt,Borno,Monguno,288.89,250 G,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Borno,Monguno,1577.78,400 G,2026-06-01,wfp_hdx
+Sugar,Borno,Monguno,2005.55,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Monguno,2044.44,L,2026-06-01,wfp_hdx
+Oil (palm),Borno,Monguno,2777.78,L,2026-06-01,wfp_hdx
+Oil (vegetable),Borno,Monguno,3277.78,L,2026-06-01,wfp_hdx
+Beans (red),Borno,Monguno,2955.56,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Borno,Monguno,2716.67,2.5 KG,2026-06-01,wfp_hdx
+Cowpeas,Borno,Monguno,2566.67,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Borno,Monguno,3777.78,2.2 KG,2026-06-01,wfp_hdx
 Bananas,Borno,Monguno,1000,1.3 KG,2026-06-01,wfp_hdx
 Onions,Borno,Monguno,400,0.5 KG,2026-06-01,wfp_hdx
-Oranges,Borno,Monguno,400,400 G,2026-06-01,wfp_hdx
-Spinach,Borno,Monguno,200,300 G,2026-06-01,wfp_hdx
-Tomatoes,Borno,Monguno,300,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Borno,Monguno,422.22,400 G,2026-06-01,wfp_hdx
+Spinach,Borno,Monguno,188.89,300 G,2026-06-01,wfp_hdx
+Tomatoes,Borno,Monguno,277.78,0.5 KG,2026-06-01,wfp_hdx
 Watermelons,Borno,Monguno,1500,2.1 KG,2026-06-01,wfp_hdx
 Maize flour,Borno,Pulka,2500,2.1 KG,2026-06-01,wfp_hdx
-Millet,Borno,Pulka,900,2.6 KG,2026-06-01,wfp_hdx
-Rice (imported),Borno,Pulka,4000,2.8 KG,2026-06-01,wfp_hdx
-Rice (local),Borno,Pulka,3000,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Borno,Pulka,675,2.7 KG,2026-06-01,wfp_hdx
-Eggs,Borno,Pulka,6350,30 pcs,2026-06-01,wfp_hdx
-Fish,Borno,Pulka,1000,KG,2026-06-01,wfp_hdx
+Millet,Borno,Pulka,1011.11,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Borno,Pulka,4222.22,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Borno,Pulka,3044.44,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Borno,Pulka,791.67,2.7 KG,2026-06-01,wfp_hdx
+Yam,Borno,Pulka,5000,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Borno,Pulka,6605.56,30 pcs,2026-06-01,wfp_hdx
+Fish,Borno,Pulka,1111.11,KG,2026-06-01,wfp_hdx
 Meat (beef),Borno,Pulka,6500,KG,2026-06-01,wfp_hdx
-Meat (goat),Borno,Pulka,6000,KG,2026-06-01,wfp_hdx
-Milk (powder),Borno,Pulka,4500,400 G,2026-06-01,wfp_hdx
+Meat (goat),Borno,Pulka,6555.56,KG,2026-06-01,wfp_hdx
+Milk (powder),Borno,Pulka,4388.89,400 G,2026-06-01,wfp_hdx
 Salt,Borno,Pulka,250,250 G,2026-06-01,wfp_hdx
-Seasoning (maggi cube),Borno,Pulka,1500,400 G,2026-06-01,wfp_hdx
-Sugar,Borno,Pulka,1000,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Borno,Pulka,1800,L,2026-06-01,wfp_hdx
-Oil (palm),Borno,Pulka,2350,L,2026-06-01,wfp_hdx
-Oil (vegetable),Borno,Pulka,2400,L,2026-06-01,wfp_hdx
-Beans (red),Borno,Pulka,2000,2.5 KG,2026-06-01,wfp_hdx
-Beans (white),Borno,Pulka,1950,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Borno,Pulka,3400,2.2 KG,2026-06-01,wfp_hdx
-Onions,Borno,Pulka,200,0.5 KG,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Borno,Pulka,1522.22,400 G,2026-06-01,wfp_hdx
+Sugar,Borno,Pulka,1844.44,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Pulka,1844.44,L,2026-06-01,wfp_hdx
+Oil (palm),Borno,Pulka,2488.89,L,2026-06-01,wfp_hdx
+Oil (vegetable),Borno,Pulka,2422.22,L,2026-06-01,wfp_hdx
+Beans (red),Borno,Pulka,2177.78,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Borno,Pulka,2016.67,2.5 KG,2026-06-01,wfp_hdx
+Cowpeas,Borno,Pulka,2200,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Borno,Pulka,3622.22,2.2 KG,2026-06-01,wfp_hdx
+Onions,Borno,Pulka,222.22,0.5 KG,2026-06-01,wfp_hdx
 Oranges,Borno,Pulka,300,400 G,2026-06-01,wfp_hdx
 Spinach,Borno,Pulka,100,300 G,2026-06-01,wfp_hdx
 Tomatoes,Borno,Pulka,350,0.5 KG,2026-06-01,wfp_hdx
-Watermelons,Borno,Pulka,1750,2.1 KG,2026-06-01,wfp_hdx
+Watermelons,Borno,Pulka,1694.44,2.1 KG,2026-06-01,wfp_hdx
 Maize flour,Borno,Rann,1181.11,2.1 KG,2026-06-01,wfp_hdx
 Millet,Borno,Rann,896.67,2.6 KG,2026-06-01,wfp_hdx
 Rice (imported),Borno,Rann,3227.78,2.8 KG,2026-06-01,wfp_hdx
@@ -88185,6 +88199,7 @@ Milk (powder),Borno,Rann,3449.72,400 G,2026-06-01,wfp_hdx
 Salt,Borno,Rann,259.17,250 G,2026-06-01,wfp_hdx
 Seasoning (maggi cube),Borno,Rann,1500,400 G,2026-06-01,wfp_hdx
 Sugar,Borno,Rann,824.89,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Rann,5000,L,2026-06-01,wfp_hdx
 Oil (palm),Borno,Rann,2529.17,L,2026-06-01,wfp_hdx
 Oil (vegetable),Borno,Rann,2570,L,2026-06-01,wfp_hdx
 Beans (red),Borno,Rann,2686.67,2.5 KG,2026-06-01,wfp_hdx
@@ -88250,59 +88265,59 @@ Tomatoes,Borno,Banki,525,0.5 KG,2026-06-01,wfp_hdx
 Watermelons,Borno,Banki,2625,2.1 KG,2026-06-01,wfp_hdx
 Fuel (petrol-gasoline),Borno,Dikwa Central,2000,L,2026-06-01,wfp_hdx
 Bananas,Borno,Dikwa Central,992,1.3 KG,2026-06-01,wfp_hdx
-Maize flour,Borno,Mafa,1262.5,2.1 KG,2026-06-01,wfp_hdx
-Millet,Borno,Mafa,1287.5,2.6 KG,2026-06-01,wfp_hdx
-Rice (imported),Borno,Mafa,4975,2.8 KG,2026-06-01,wfp_hdx
-Rice (local),Borno,Mafa,3250,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Borno,Mafa,1000,2.7 KG,2026-06-01,wfp_hdx
-Yam,Borno,Mafa,2450,2.5 KG,2026-06-01,wfp_hdx
+Maize flour,Borno,Mafa,1281.94,2.1 KG,2026-06-01,wfp_hdx
+Millet,Borno,Mafa,1401.39,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Borno,Mafa,4669.44,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Borno,Mafa,3227.78,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Borno,Mafa,963.89,2.7 KG,2026-06-01,wfp_hdx
+Yam,Borno,Mafa,2766.67,2.5 KG,2026-06-01,wfp_hdx
 Eggs,Borno,Mafa,7200,30 pcs,2026-06-01,wfp_hdx
-Fish,Borno,Mafa,1625,KG,2026-06-01,wfp_hdx
-Meat (beef),Borno,Mafa,5750,KG,2026-06-01,wfp_hdx
-Meat (goat),Borno,Mafa,5875,KG,2026-06-01,wfp_hdx
-Milk (powder),Borno,Mafa,4050,400 G,2026-06-01,wfp_hdx
-Salt,Borno,Mafa,275,250 G,2026-06-01,wfp_hdx
-Seasoning (maggi cube),Borno,Mafa,1600,400 G,2026-06-01,wfp_hdx
-Sugar,Borno,Mafa,1030,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Borno,Mafa,1600,L,2026-06-01,wfp_hdx
-Oil (palm),Borno,Mafa,2737.5,L,2026-06-01,wfp_hdx
-Oil (vegetable),Borno,Mafa,2875,L,2026-06-01,wfp_hdx
-Beans (red),Borno,Mafa,2650,2.5 KG,2026-06-01,wfp_hdx
-Beans (white),Borno,Mafa,2275,2.5 KG,2026-06-01,wfp_hdx
-Cowpeas,Borno,Mafa,2350,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Borno,Mafa,3700,2.2 KG,2026-06-01,wfp_hdx
-Bananas,Borno,Mafa,500,1.3 KG,2026-06-01,wfp_hdx
-Onions,Borno,Mafa,375,0.5 KG,2026-06-01,wfp_hdx
-Oranges,Borno,Mafa,387.5,400 G,2026-06-01,wfp_hdx
-Spinach,Borno,Mafa,200,300 G,2026-06-01,wfp_hdx
-Tomatoes,Borno,Mafa,200,0.5 KG,2026-06-01,wfp_hdx
-Watermelons,Borno,Mafa,1300,2.1 KG,2026-06-01,wfp_hdx
-Maize flour,Borno,Custom,2200,2.1 KG,2026-06-01,wfp_hdx
-Millet,Borno,Custom,1137.5,2.6 KG,2026-06-01,wfp_hdx
-Rice (local),Borno,Custom,3312.5,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Borno,Custom,1237.5,2.7 KG,2026-06-01,wfp_hdx
-Yam,Borno,Custom,3025,2.5 KG,2026-06-01,wfp_hdx
-Eggs,Borno,Custom,5700,30 pcs,2026-06-01,wfp_hdx
-Fish,Borno,Custom,2333.33,KG,2026-06-01,wfp_hdx
-Meat (beef),Borno,Custom,7750,KG,2026-06-01,wfp_hdx
-Meat (goat),Borno,Custom,7750,KG,2026-06-01,wfp_hdx
-Milk (powder),Borno,Custom,2425,400 G,2026-06-01,wfp_hdx
+Fish,Borno,Mafa,1819.44,KG,2026-06-01,wfp_hdx
+Meat (beef),Borno,Mafa,5888.89,KG,2026-06-01,wfp_hdx
+Meat (goat),Borno,Mafa,6125,KG,2026-06-01,wfp_hdx
+Milk (powder),Borno,Mafa,4261.11,400 G,2026-06-01,wfp_hdx
+Salt,Borno,Mafa,277.22,250 G,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Borno,Mafa,1622.22,400 G,2026-06-01,wfp_hdx
+Sugar,Borno,Mafa,2017.78,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Mafa,1585.56,L,2026-06-01,wfp_hdx
+Oil (palm),Borno,Mafa,2804.17,L,2026-06-01,wfp_hdx
+Oil (vegetable),Borno,Mafa,2958.33,L,2026-06-01,wfp_hdx
+Beans (red),Borno,Mafa,2616.67,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Borno,Mafa,2263.89,2.5 KG,2026-06-01,wfp_hdx
+Cowpeas,Borno,Mafa,2427.78,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Borno,Mafa,3677.78,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Borno,Mafa,555.56,1.3 KG,2026-06-01,wfp_hdx
+Onions,Borno,Mafa,386.11,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Borno,Mafa,406.94,400 G,2026-06-01,wfp_hdx
+Spinach,Borno,Mafa,183.33,300 G,2026-06-01,wfp_hdx
+Tomatoes,Borno,Mafa,305.56,0.5 KG,2026-06-01,wfp_hdx
+Watermelons,Borno,Mafa,1311.11,2.1 KG,2026-06-01,wfp_hdx
+Maize flour,Borno,Custom,2208.7,2.1 KG,2026-06-01,wfp_hdx
+Millet,Borno,Custom,1145,2.6 KG,2026-06-01,wfp_hdx
+Rice (local),Borno,Custom,3331.67,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Borno,Custom,1241.67,2.7 KG,2026-06-01,wfp_hdx
+Yam,Borno,Custom,3056.67,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Borno,Custom,5680,30 pcs,2026-06-01,wfp_hdx
+Fish,Borno,Custom,2347.83,KG,2026-06-01,wfp_hdx
+Meat (beef),Borno,Custom,7700,KG,2026-06-01,wfp_hdx
+Meat (goat),Borno,Custom,7700,KG,2026-06-01,wfp_hdx
+Milk (powder),Borno,Custom,2423.33,400 G,2026-06-01,wfp_hdx
 Salt,Borno,Custom,250,250 G,2026-06-01,wfp_hdx
 Seasoning (maggi cube),Borno,Custom,1500,400 G,2026-06-01,wfp_hdx
-Sugar,Borno,Custom,1035,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Borno,Custom,1398.75,L,2026-06-01,wfp_hdx
-Oil (palm),Borno,Custom,2406.25,L,2026-06-01,wfp_hdx
-Oil (vegetable),Borno,Custom,2390.62,L,2026-06-01,wfp_hdx
-Beans (red),Borno,Custom,2550,2.5 KG,2026-06-01,wfp_hdx
-Beans (white),Borno,Custom,3066.67,2.5 KG,2026-06-01,wfp_hdx
-Cowpeas,Borno,Custom,4083.33,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Borno,Custom,3612.5,2.2 KG,2026-06-01,wfp_hdx
-Bananas,Borno,Custom,1712.5,1.3 KG,2026-06-01,wfp_hdx
-Onions,Borno,Custom,237.5,0.5 KG,2026-06-01,wfp_hdx
-Oranges,Borno,Custom,350,400 G,2026-06-01,wfp_hdx
-Spinach,Borno,Custom,231.25,300 G,2026-06-01,wfp_hdx
+Sugar,Borno,Custom,1306,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Custom,1398.33,L,2026-06-01,wfp_hdx
+Oil (palm),Borno,Custom,2461.67,L,2026-06-01,wfp_hdx
+Oil (vegetable),Borno,Custom,2397.92,L,2026-06-01,wfp_hdx
+Beans (red),Borno,Custom,2560,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Borno,Custom,3130.43,2.5 KG,2026-06-01,wfp_hdx
+Cowpeas,Borno,Custom,4067.39,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Borno,Custom,3638.33,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Borno,Custom,1718.33,1.3 KG,2026-06-01,wfp_hdx
+Onions,Borno,Custom,236.67,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Borno,Custom,346.67,400 G,2026-06-01,wfp_hdx
+Spinach,Borno,Custom,227.5,300 G,2026-06-01,wfp_hdx
 Tomatoes,Borno,Custom,300,0.5 KG,2026-06-01,wfp_hdx
-Watermelons,Borno,Custom,1812.5,2.1 KG,2026-06-01,wfp_hdx
+Watermelons,Borno,Custom,1811.67,2.1 KG,2026-06-01,wfp_hdx
 Maize flour,Borno,Gamboru,1512.5,2.1 KG,2026-06-01,wfp_hdx
 Millet,Borno,Gamboru,1500,2.6 KG,2026-06-01,wfp_hdx
 Rice (imported),Borno,Gamboru,3737.5,2.8 KG,2026-06-01,wfp_hdx
@@ -88356,85 +88371,112 @@ Oranges,Borno,Monday,400,400 G,2026-06-01,wfp_hdx
 Spinach,Borno,Monday,168.75,300 G,2026-06-01,wfp_hdx
 Tomatoes,Borno,Monday,400,0.5 KG,2026-06-01,wfp_hdx
 Watermelons,Borno,Monday,1837.5,2.1 KG,2026-06-01,wfp_hdx
-Maize flour,Borno,Tashan Bama,2412.5,2.1 KG,2026-06-01,wfp_hdx
-Millet,Borno,Tashan Bama,1237.5,2.6 KG,2026-06-01,wfp_hdx
-Rice (local),Borno,Tashan Bama,3325,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Borno,Tashan Bama,1250,2.7 KG,2026-06-01,wfp_hdx
-Yam,Borno,Tashan Bama,2625,2.5 KG,2026-06-01,wfp_hdx
-Eggs,Borno,Tashan Bama,7400,30 pcs,2026-06-01,wfp_hdx
+Maize flour,Borno,Tashan Bama,2411.67,2.1 KG,2026-06-01,wfp_hdx
+Millet,Borno,Tashan Bama,1238.33,2.6 KG,2026-06-01,wfp_hdx
+Rice (local),Borno,Tashan Bama,3323.33,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Borno,Tashan Bama,1243.33,2.7 KG,2026-06-01,wfp_hdx
+Yam,Borno,Tashan Bama,2583.33,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Borno,Tashan Bama,7373.33,30 pcs,2026-06-01,wfp_hdx
 Fish,Borno,Tashan Bama,3750,KG,2026-06-01,wfp_hdx
-Meat (beef),Borno,Tashan Bama,7887.5,KG,2026-06-01,wfp_hdx
-Meat (goat),Borno,Tashan Bama,7825,KG,2026-06-01,wfp_hdx
-Milk (powder),Borno,Tashan Bama,4350,400 G,2026-06-01,wfp_hdx
+Meat (beef),Borno,Tashan Bama,7895,KG,2026-06-01,wfp_hdx
+Meat (goat),Borno,Tashan Bama,7836.67,KG,2026-06-01,wfp_hdx
+Milk (powder),Borno,Tashan Bama,4331.25,400 G,2026-06-01,wfp_hdx
 Salt,Borno,Tashan Bama,250,250 G,2026-06-01,wfp_hdx
-Seasoning (maggi cube),Borno,Tashan Bama,2462.5,400 G,2026-06-01,wfp_hdx
-Sugar,Borno,Tashan Bama,1150,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Borno,Tashan Bama,1380,L,2026-06-01,wfp_hdx
-Oil (palm),Borno,Tashan Bama,2765.62,L,2026-06-01,wfp_hdx
-Oil (vegetable),Borno,Tashan Bama,3350,L,2026-06-01,wfp_hdx
-Beans (red),Borno,Tashan Bama,3150,2.5 KG,2026-06-01,wfp_hdx
-Beans (white),Borno,Tashan Bama,2512.5,2.5 KG,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Borno,Tashan Bama,2411.67,400 G,2026-06-01,wfp_hdx
+Sugar,Borno,Tashan Bama,1446.67,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Tashan Bama,1371.33,L,2026-06-01,wfp_hdx
+Oil (palm),Borno,Tashan Bama,2837.92,L,2026-06-01,wfp_hdx
+Oil (vegetable),Borno,Tashan Bama,3431.25,L,2026-06-01,wfp_hdx
+Beans (red),Borno,Tashan Bama,3126.67,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Borno,Tashan Bama,2505,2.5 KG,2026-06-01,wfp_hdx
 Cowpeas,Borno,Tashan Bama,5500,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Borno,Tashan Bama,5375,2.2 KG,2026-06-01,wfp_hdx
+Groundnuts,Borno,Tashan Bama,5383.33,2.2 KG,2026-06-01,wfp_hdx
 Bananas,Borno,Tashan Bama,1200,1.3 KG,2026-06-01,wfp_hdx
-Onions,Borno,Tashan Bama,275,0.5 KG,2026-06-01,wfp_hdx
-Oranges,Borno,Tashan Bama,375,400 G,2026-06-01,wfp_hdx
-Spinach,Borno,Tashan Bama,287.5,300 G,2026-06-01,wfp_hdx
+Onions,Borno,Tashan Bama,276.67,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Borno,Tashan Bama,378.12,400 G,2026-06-01,wfp_hdx
+Spinach,Borno,Tashan Bama,278.33,300 G,2026-06-01,wfp_hdx
 Tomatoes,Borno,Tashan Bama,400,0.5 KG,2026-06-01,wfp_hdx
-Watermelons,Borno,Tashan Bama,1650,2.1 KG,2026-06-01,wfp_hdx
-Maize flour,Borno,Damassack (CBM),2800,2.1 KG,2026-06-01,wfp_hdx
+Watermelons,Borno,Tashan Bama,1643.33,2.1 KG,2026-06-01,wfp_hdx
+Maize flour,Borno,Damassack (CBM),2577.78,2.1 KG,2026-06-01,wfp_hdx
 Millet,Borno,Damassack (CBM),1200,2.6 KG,2026-06-01,wfp_hdx
-Rice (imported),Borno,Damassack (CBM),4500,2.8 KG,2026-06-01,wfp_hdx
-Rice (local),Borno,Damassack (CBM),3500,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Borno,Damassack (CBM),1200,2.7 KG,2026-06-01,wfp_hdx
-Yam,Borno,Damassack (CBM),4250,2.5 KG,2026-06-01,wfp_hdx
-Eggs,Borno,Damassack (CBM),7750,30 pcs,2026-06-01,wfp_hdx
-Fish,Borno,Damassack (CBM),2375,KG,2026-06-01,wfp_hdx
+Rice (imported),Borno,Damassack (CBM),4388.89,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Borno,Damassack (CBM),3344.44,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Borno,Damassack (CBM),1155.56,2.7 KG,2026-06-01,wfp_hdx
+Yam,Borno,Damassack (CBM),4416.67,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Borno,Damassack (CBM),7361.11,30 pcs,2026-06-01,wfp_hdx
+Fish,Borno,Damassack (CBM),2125,KG,2026-06-01,wfp_hdx
 Meat (beef),Borno,Damassack (CBM),7000,KG,2026-06-01,wfp_hdx
-Meat (goat),Borno,Damassack (CBM),7500,KG,2026-06-01,wfp_hdx
+Meat (goat),Borno,Damassack (CBM),8055.56,KG,2026-06-01,wfp_hdx
 Milk (powder),Borno,Damassack (CBM),4000,400 G,2026-06-01,wfp_hdx
-Salt,Borno,Damassack (CBM),300,250 G,2026-06-01,wfp_hdx
-Seasoning (maggi cube),Borno,Damassack (CBM),1550,400 G,2026-06-01,wfp_hdx
-Sugar,Borno,Damassack (CBM),1100,500 G,2026-06-01,wfp_hdx
+Salt,Borno,Damassack (CBM),288.89,250 G,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Borno,Damassack (CBM),1538.89,400 G,2026-06-01,wfp_hdx
+Sugar,Borno,Damassack (CBM),1855.55,500 G,2026-06-01,wfp_hdx
 Fuel (petrol-gasoline),Borno,Damassack (CBM),2000,L,2026-06-01,wfp_hdx
-Oil (palm),Borno,Damassack (CBM),3000,L,2026-06-01,wfp_hdx
-Oil (vegetable),Borno,Damassack (CBM),3000,L,2026-06-01,wfp_hdx
-Beans (white),Borno,Damassack (CBM),2225,2.5 KG,2026-06-01,wfp_hdx
+Oil (palm),Borno,Damassack (CBM),2733.33,L,2026-06-01,wfp_hdx
+Oil (vegetable),Borno,Damassack (CBM),2777.78,L,2026-06-01,wfp_hdx
+Beans (red),Borno,Damassack (CBM),2500,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Borno,Damassack (CBM),2175,2.5 KG,2026-06-01,wfp_hdx
 Cowpeas,Borno,Damassack (CBM),2500,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Borno,Damassack (CBM),3950,2.2 KG,2026-06-01,wfp_hdx
-Bananas,Borno,Damassack (CBM),1000,1.3 KG,2026-06-01,wfp_hdx
-Onions,Borno,Damassack (CBM),350,0.5 KG,2026-06-01,wfp_hdx
-Oranges,Borno,Damassack (CBM),425,400 G,2026-06-01,wfp_hdx
-Spinach,Borno,Damassack (CBM),200,300 G,2026-06-01,wfp_hdx
-Tomatoes,Borno,Damassack (CBM),275,0.5 KG,2026-06-01,wfp_hdx
-Watermelons,Borno,Damassack (CBM),1325,2.1 KG,2026-06-01,wfp_hdx
-Maize flour,Yobe,Bayantasha,2225,2.1 KG,2026-06-01,wfp_hdx
-Millet,Yobe,Bayantasha,912.5,2.6 KG,2026-06-01,wfp_hdx
-Rice (imported),Yobe,Bayantasha,4525,2.8 KG,2026-06-01,wfp_hdx
-Rice (local),Yobe,Bayantasha,2800,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Yobe,Bayantasha,931.25,2.7 KG,2026-06-01,wfp_hdx
-Yam,Yobe,Bayantasha,4312.5,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Borno,Damassack (CBM),3961.11,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Borno,Damassack (CBM),933.33,1.3 KG,2026-06-01,wfp_hdx
+Onions,Borno,Damassack (CBM),383.33,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Borno,Damassack (CBM),441.67,400 G,2026-06-01,wfp_hdx
+Spinach,Borno,Damassack (CBM),188.89,300 G,2026-06-01,wfp_hdx
+Tomatoes,Borno,Damassack (CBM),258.33,0.5 KG,2026-06-01,wfp_hdx
+Watermelons,Borno,Damassack (CBM),1419.44,2.1 KG,2026-06-01,wfp_hdx
+Maize flour,Borno,Ngala,1600,2.1 KG,2026-06-01,wfp_hdx
+Millet,Borno,Ngala,1500,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Borno,Ngala,4000,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Borno,Ngala,2800,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Borno,Ngala,800,2.7 KG,2026-06-01,wfp_hdx
+Yam,Borno,Ngala,6000,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Borno,Ngala,6500,30 pcs,2026-06-01,wfp_hdx
+Fish,Borno,Ngala,2000,KG,2026-06-01,wfp_hdx
+Meat (beef),Borno,Ngala,6500,KG,2026-06-01,wfp_hdx
+Meat (goat),Borno,Ngala,6250,KG,2026-06-01,wfp_hdx
+Milk (powder),Borno,Ngala,5500,400 G,2026-06-01,wfp_hdx
+Salt,Borno,Ngala,300,250 G,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Borno,Ngala,1500,400 G,2026-06-01,wfp_hdx
+Sugar,Borno,Ngala,5000,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Ngala,2400,L,2026-06-01,wfp_hdx
+Oil (palm),Borno,Ngala,3000,L,2026-06-01,wfp_hdx
+Oil (vegetable),Borno,Ngala,2900,L,2026-06-01,wfp_hdx
+Beans (red),Borno,Ngala,3500,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Borno,Ngala,2500,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Borno,Ngala,4000,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Borno,Ngala,2500,1.3 KG,2026-06-01,wfp_hdx
+Onions,Borno,Ngala,500,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Borno,Ngala,500,400 G,2026-06-01,wfp_hdx
+Spinach,Borno,Ngala,100,300 G,2026-06-01,wfp_hdx
+Tomatoes,Borno,Ngala,500,0.5 KG,2026-06-01,wfp_hdx
+Watermelons,Borno,Ngala,3500,2.1 KG,2026-06-01,wfp_hdx
+Maize flour,Yobe,Bayantasha,2223.33,2.1 KG,2026-06-01,wfp_hdx
+Millet,Yobe,Bayantasha,913.33,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Yobe,Bayantasha,4513.33,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Yobe,Bayantasha,2796.67,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Yobe,Bayantasha,929.17,2.7 KG,2026-06-01,wfp_hdx
+Yam,Yobe,Bayantasha,4325,2.5 KG,2026-06-01,wfp_hdx
 Eggs,Yobe,Bayantasha,5550,30 pcs,2026-06-01,wfp_hdx
-Fish,Yobe,Bayantasha,1637.5,KG,2026-06-01,wfp_hdx
-Meat (beef),Yobe,Bayantasha,4462.5,KG,2026-06-01,wfp_hdx
-Meat (goat),Yobe,Bayantasha,3725,KG,2026-06-01,wfp_hdx
+Fish,Yobe,Bayantasha,1648.33,KG,2026-06-01,wfp_hdx
+Meat (beef),Yobe,Bayantasha,4455,KG,2026-06-01,wfp_hdx
+Meat (goat),Yobe,Bayantasha,3723.33,KG,2026-06-01,wfp_hdx
 Milk (powder),Yobe,Bayantasha,3600,400 G,2026-06-01,wfp_hdx
 Salt,Yobe,Bayantasha,350,250 G,2026-06-01,wfp_hdx
-Seasoning (maggi cube),Yobe,Bayantasha,1587.5,400 G,2026-06-01,wfp_hdx
-Sugar,Yobe,Bayantasha,935,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Yobe,Bayantasha,1431.25,L,2026-06-01,wfp_hdx
-Oil (palm),Yobe,Bayantasha,2671.88,L,2026-06-01,wfp_hdx
-Oil (vegetable),Yobe,Bayantasha,2000,L,2026-06-01,wfp_hdx
-Beans (red),Yobe,Bayantasha,2312.5,2.5 KG,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Bayantasha,1588.33,400 G,2026-06-01,wfp_hdx
+Sugar,Yobe,Bayantasha,1182.67,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Bayantasha,1424.5,L,2026-06-01,wfp_hdx
+Oil (palm),Yobe,Bayantasha,2750.42,L,2026-06-01,wfp_hdx
+Oil (vegetable),Yobe,Bayantasha,2033.33,L,2026-06-01,wfp_hdx
+Beans (red),Yobe,Bayantasha,2311.67,2.5 KG,2026-06-01,wfp_hdx
 Beans (white),Yobe,Bayantasha,2100,2.5 KG,2026-06-01,wfp_hdx
 Cowpeas,Yobe,Bayantasha,2650,2.5 KG,2026-06-01,wfp_hdx
 Groundnuts,Yobe,Bayantasha,4200,2.2 KG,2026-06-01,wfp_hdx
-Bananas,Yobe,Bayantasha,862.5,1.3 KG,2026-06-01,wfp_hdx
+Bananas,Yobe,Bayantasha,865,1.3 KG,2026-06-01,wfp_hdx
 Onions,Yobe,Bayantasha,500,0.5 KG,2026-06-01,wfp_hdx
 Oranges,Yobe,Bayantasha,400,400 G,2026-06-01,wfp_hdx
 Spinach,Yobe,Bayantasha,100,300 G,2026-06-01,wfp_hdx
 Tomatoes,Yobe,Bayantasha,100,0.5 KG,2026-06-01,wfp_hdx
-Watermelons,Yobe,Bayantasha,862.5,2.1 KG,2026-06-01,wfp_hdx
+Watermelons,Yobe,Bayantasha,868.33,2.1 KG,2026-06-01,wfp_hdx
 Maize flour,Yobe,Damagum,1500,2.1 KG,2026-06-01,wfp_hdx
 Millet,Yobe,Damagum,1033.33,2.6 KG,2026-06-01,wfp_hdx
 Rice (imported),Yobe,Damagum,3916.67,2.8 KG,2026-06-01,wfp_hdx
@@ -88462,85 +88504,1325 @@ Oranges,Yobe,Damagum,393.33,400 G,2026-06-01,wfp_hdx
 Spinach,Yobe,Damagum,250,300 G,2026-06-01,wfp_hdx
 Tomatoes,Yobe,Damagum,208.33,0.5 KG,2026-06-01,wfp_hdx
 Watermelons,Yobe,Damagum,516.67,2.1 KG,2026-06-01,wfp_hdx
-Maize flour,Yobe,Gujba (Buni Yadi),1456.25,2.1 KG,2026-06-01,wfp_hdx
-Millet,Yobe,Gujba (Buni Yadi),1087.5,2.6 KG,2026-06-01,wfp_hdx
-Rice (imported),Yobe,Gujba (Buni Yadi),3837.5,2.8 KG,2026-06-01,wfp_hdx
-Rice (local),Yobe,Gujba (Buni Yadi),2706.25,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Yobe,Gujba (Buni Yadi),981.25,2.7 KG,2026-06-01,wfp_hdx
-Yam,Yobe,Gujba (Buni Yadi),3950,2.5 KG,2026-06-01,wfp_hdx
-Eggs,Yobe,Gujba (Buni Yadi),5937.5,30 pcs,2026-06-01,wfp_hdx
-Fish,Yobe,Gujba (Buni Yadi),3125,KG,2026-06-01,wfp_hdx
-Meat (beef),Yobe,Gujba (Buni Yadi),6550,KG,2026-06-01,wfp_hdx
+Maize flour,Yobe,Gujba (Buni Yadi),1459.17,2.1 KG,2026-06-01,wfp_hdx
+Millet,Yobe,Gujba (Buni Yadi),1088.33,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Yobe,Gujba (Buni Yadi),3836.67,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Yobe,Gujba (Buni Yadi),2709.17,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Yobe,Gujba (Buni Yadi),975.83,2.7 KG,2026-06-01,wfp_hdx
+Yam,Yobe,Gujba (Buni Yadi),3936.67,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Yobe,Gujba (Buni Yadi),5925,30 pcs,2026-06-01,wfp_hdx
+Fish,Yobe,Gujba (Buni Yadi),3116.67,KG,2026-06-01,wfp_hdx
+Meat (beef),Yobe,Gujba (Buni Yadi),6553.33,KG,2026-06-01,wfp_hdx
 Meat (goat),Yobe,Gujba (Buni Yadi),7000,KG,2026-06-01,wfp_hdx
-Milk (powder),Yobe,Gujba (Buni Yadi),4450,400 G,2026-06-01,wfp_hdx
+Milk (powder),Yobe,Gujba (Buni Yadi),4446.67,400 G,2026-06-01,wfp_hdx
 Salt,Yobe,Gujba (Buni Yadi),300,250 G,2026-06-01,wfp_hdx
-Seasoning (maggi cube),Yobe,Gujba (Buni Yadi),1625,400 G,2026-06-01,wfp_hdx
-Sugar,Yobe,Gujba (Buni Yadi),920,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Yobe,Gujba (Buni Yadi),1392.5,L,2026-06-01,wfp_hdx
-Oil (palm),Yobe,Gujba (Buni Yadi),1867.19,L,2026-06-01,wfp_hdx
-Oil (vegetable),Yobe,Gujba (Buni Yadi),2039.06,L,2026-06-01,wfp_hdx
-Beans (red),Yobe,Gujba (Buni Yadi),2837.5,2.5 KG,2026-06-01,wfp_hdx
-Beans (white),Yobe,Gujba (Buni Yadi),2656.25,2.5 KG,2026-06-01,wfp_hdx
-Cowpeas,Yobe,Gujba (Buni Yadi),2125,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Yobe,Gujba (Buni Yadi),3862.5,2.2 KG,2026-06-01,wfp_hdx
-Bananas,Yobe,Gujba (Buni Yadi),718.75,1.3 KG,2026-06-01,wfp_hdx
-Onions,Yobe,Gujba (Buni Yadi),350,0.5 KG,2026-06-01,wfp_hdx
-Oranges,Yobe,Gujba (Buni Yadi),337.5,400 G,2026-06-01,wfp_hdx
-Spinach,Yobe,Gujba (Buni Yadi),225,300 G,2026-06-01,wfp_hdx
-Tomatoes,Yobe,Gujba (Buni Yadi),575,0.5 KG,2026-06-01,wfp_hdx
-Watermelons,Yobe,Gujba (Buni Yadi),831.25,2.1 KG,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Gujba (Buni Yadi),1623.33,400 G,2026-06-01,wfp_hdx
+Sugar,Yobe,Gujba (Buni Yadi),1165.33,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Gujba (Buni Yadi),1391.67,L,2026-06-01,wfp_hdx
+Oil (palm),Yobe,Gujba (Buni Yadi),1917.71,L,2026-06-01,wfp_hdx
+Oil (vegetable),Yobe,Gujba (Buni Yadi),2069.79,L,2026-06-01,wfp_hdx
+Beans (red),Yobe,Gujba (Buni Yadi),2818.33,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Yobe,Gujba (Buni Yadi),2635.83,2.5 KG,2026-06-01,wfp_hdx
+Cowpeas,Yobe,Gujba (Buni Yadi),2123.33,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Yobe,Gujba (Buni Yadi),3860,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Yobe,Gujba (Buni Yadi),710.83,1.3 KG,2026-06-01,wfp_hdx
+Onions,Yobe,Gujba (Buni Yadi),360,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Yobe,Gujba (Buni Yadi),341.67,400 G,2026-06-01,wfp_hdx
+Spinach,Yobe,Gujba (Buni Yadi),216.67,300 G,2026-06-01,wfp_hdx
+Tomatoes,Yobe,Gujba (Buni Yadi),570,0.5 KG,2026-06-01,wfp_hdx
+Watermelons,Yobe,Gujba (Buni Yadi),829.17,2.1 KG,2026-06-01,wfp_hdx
 Maize flour,Yobe,Bade (Gashua),1700,2.1 KG,2026-06-01,wfp_hdx
 Millet,Yobe,Bade (Gashua),1200,2.6 KG,2026-06-01,wfp_hdx
 Rice (imported),Yobe,Bade (Gashua),4100,2.8 KG,2026-06-01,wfp_hdx
-Rice (local),Yobe,Bade (Gashua),2637.5,2.7 KG,2026-06-01,wfp_hdx
-Sorghum,Yobe,Bade (Gashua),950,2.7 KG,2026-06-01,wfp_hdx
-Yam,Yobe,Bade (Gashua),2612.5,2.5 KG,2026-06-01,wfp_hdx
+Rice (local),Yobe,Bade (Gashua),2635,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Yobe,Bade (Gashua),953.33,2.7 KG,2026-06-01,wfp_hdx
+Yam,Yobe,Bade (Gashua),2611.67,2.5 KG,2026-06-01,wfp_hdx
 Eggs,Yobe,Bade (Gashua),6000,30 pcs,2026-06-01,wfp_hdx
-Fish,Yobe,Bade (Gashua),2250,KG,2026-06-01,wfp_hdx
-Meat (beef),Yobe,Bade (Gashua),4050,KG,2026-06-01,wfp_hdx
-Meat (goat),Yobe,Bade (Gashua),4300,KG,2026-06-01,wfp_hdx
-Milk (powder),Yobe,Bade (Gashua),6237.5,400 G,2026-06-01,wfp_hdx
-Salt,Yobe,Bade (Gashua),305,250 G,2026-06-01,wfp_hdx
+Fish,Yobe,Bade (Gashua),2266.67,KG,2026-06-01,wfp_hdx
+Meat (beef),Yobe,Bade (Gashua),4060,KG,2026-06-01,wfp_hdx
+Meat (goat),Yobe,Bade (Gashua),4313.33,KG,2026-06-01,wfp_hdx
+Milk (powder),Yobe,Bade (Gashua),6248.33,400 G,2026-06-01,wfp_hdx
+Salt,Yobe,Bade (Gashua),304.67,250 G,2026-06-01,wfp_hdx
 Seasoning (maggi cube),Yobe,Bade (Gashua),1600,400 G,2026-06-01,wfp_hdx
-Sugar,Yobe,Bade (Gashua),900,500 G,2026-06-01,wfp_hdx
-Fuel (petrol-gasoline),Yobe,Bade (Gashua),1400,L,2026-06-01,wfp_hdx
+Sugar,Yobe,Bade (Gashua),1140,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Bade (Gashua),1396,L,2026-06-01,wfp_hdx
 Oil (palm),Yobe,Bade (Gashua),2000,L,2026-06-01,wfp_hdx
 Oil (vegetable),Yobe,Bade (Gashua),2200,L,2026-06-01,wfp_hdx
 Beans (red),Yobe,Bade (Gashua),2400,2.5 KG,2026-06-01,wfp_hdx
 Beans (white),Yobe,Bade (Gashua),2300,2.5 KG,2026-06-01,wfp_hdx
 Cowpeas,Yobe,Bade (Gashua),2000,2.5 KG,2026-06-01,wfp_hdx
-Groundnuts,Yobe,Bade (Gashua),3237.5,2.2 KG,2026-06-01,wfp_hdx
-Bananas,Yobe,Bade (Gashua),1050,1.3 KG,2026-06-01,wfp_hdx
+Groundnuts,Yobe,Bade (Gashua),3255,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Yobe,Bade (Gashua),1060,1.3 KG,2026-06-01,wfp_hdx
 Onions,Yobe,Bade (Gashua),200,0.5 KG,2026-06-01,wfp_hdx
-Oranges,Yobe,Bade (Gashua),637.5,400 G,2026-06-01,wfp_hdx
+Oranges,Yobe,Bade (Gashua),615,400 G,2026-06-01,wfp_hdx
 Spinach,Yobe,Bade (Gashua),80,300 G,2026-06-01,wfp_hdx
-Tomatoes,Yobe,Bade (Gashua),281.25,0.5 KG,2026-06-01,wfp_hdx
+Tomatoes,Yobe,Bade (Gashua),282.5,0.5 KG,2026-06-01,wfp_hdx
 Watermelons,Yobe,Bade (Gashua),1000,2.1 KG,2026-06-01,wfp_hdx
-Maize flour,Borno,Rann,1500,2.1 KG,2026-07-01,wfp_hdx
-Millet,Borno,Rann,1200,2.6 KG,2026-07-01,wfp_hdx
-Rice (imported),Borno,Rann,3500,2.8 KG,2026-07-01,wfp_hdx
-Rice (local),Borno,Rann,2200,2.7 KG,2026-07-01,wfp_hdx
-Sorghum,Borno,Rann,1200,2.7 KG,2026-07-01,wfp_hdx
+Maize flour,Yobe,Nangere,1500,2.1 KG,2026-06-01,wfp_hdx
+Millet,Yobe,Nangere,1000,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Yobe,Nangere,4000,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Yobe,Nangere,3000,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Yobe,Nangere,1000,2.7 KG,2026-06-01,wfp_hdx
+Yam,Yobe,Nangere,4000,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Yobe,Nangere,6000,30 pcs,2026-06-01,wfp_hdx
+Fish,Yobe,Nangere,4000,KG,2026-06-01,wfp_hdx
+Meat (beef),Yobe,Nangere,7000,KG,2026-06-01,wfp_hdx
+Meat (goat),Yobe,Nangere,7500,KG,2026-06-01,wfp_hdx
+Milk (powder),Yobe,Nangere,4000,400 G,2026-06-01,wfp_hdx
+Salt,Yobe,Nangere,250,250 G,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Nangere,1600,400 G,2026-06-01,wfp_hdx
+Sugar,Yobe,Nangere,4000,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Nangere,1350,L,2026-06-01,wfp_hdx
+Oil (palm),Yobe,Nangere,2800,L,2026-06-01,wfp_hdx
+Oil (vegetable),Yobe,Nangere,2500,L,2026-06-01,wfp_hdx
+Beans (red),Yobe,Nangere,2300,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Yobe,Nangere,2200,2.5 KG,2026-06-01,wfp_hdx
+Cowpeas,Yobe,Nangere,2000,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Yobe,Nangere,4000,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Yobe,Nangere,600,1.3 KG,2026-06-01,wfp_hdx
+Onions,Yobe,Nangere,100,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Yobe,Nangere,400,400 G,2026-06-01,wfp_hdx
+Spinach,Yobe,Nangere,100,300 G,2026-06-01,wfp_hdx
+Tomatoes,Yobe,Nangere,100,0.5 KG,2026-06-01,wfp_hdx
+Watermelons,Yobe,Nangere,1000,2.1 KG,2026-06-01,wfp_hdx
+Maize flour,Yobe,Potiskum,1200,2.1 KG,2026-06-01,wfp_hdx
+Millet,Yobe,Potiskum,1200,2.6 KG,2026-06-01,wfp_hdx
+Rice (imported),Yobe,Potiskum,3500,2.8 KG,2026-06-01,wfp_hdx
+Rice (local),Yobe,Potiskum,1500,2.7 KG,2026-06-01,wfp_hdx
+Sorghum,Yobe,Potiskum,1000,2.7 KG,2026-06-01,wfp_hdx
+Yam,Yobe,Potiskum,2500,2.5 KG,2026-06-01,wfp_hdx
+Eggs,Yobe,Potiskum,7500,30 pcs,2026-06-01,wfp_hdx
+Fish,Yobe,Potiskum,1500,KG,2026-06-01,wfp_hdx
+Meat (beef),Yobe,Potiskum,6000,KG,2026-06-01,wfp_hdx
+Meat (goat),Yobe,Potiskum,6000,KG,2026-06-01,wfp_hdx
+Milk (powder),Yobe,Potiskum,4000,400 G,2026-06-01,wfp_hdx
+Salt,Yobe,Potiskum,250,250 G,2026-06-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Potiskum,1500,400 G,2026-06-01,wfp_hdx
+Sugar,Yobe,Potiskum,4600,500 G,2026-06-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Potiskum,1280,L,2026-06-01,wfp_hdx
+Oil (palm),Yobe,Potiskum,2450,L,2026-06-01,wfp_hdx
+Oil (vegetable),Yobe,Potiskum,2500,L,2026-06-01,wfp_hdx
+Beans (red),Yobe,Potiskum,2700,2.5 KG,2026-06-01,wfp_hdx
+Beans (white),Yobe,Potiskum,2400,2.5 KG,2026-06-01,wfp_hdx
+Cowpeas,Yobe,Potiskum,2400,2.5 KG,2026-06-01,wfp_hdx
+Groundnuts,Yobe,Potiskum,3000,2.2 KG,2026-06-01,wfp_hdx
+Bananas,Yobe,Potiskum,800,1.3 KG,2026-06-01,wfp_hdx
+Onions,Yobe,Potiskum,500,0.5 KG,2026-06-01,wfp_hdx
+Oranges,Yobe,Potiskum,500,400 G,2026-06-01,wfp_hdx
+Spinach,Yobe,Potiskum,200,300 G,2026-06-01,wfp_hdx
+Tomatoes,Yobe,Potiskum,300,0.5 KG,2026-06-01,wfp_hdx
+Watermelons,Yobe,Potiskum,700,2.1 KG,2026-06-01,wfp_hdx
+Maize flour,Borno,Monguno,2967.74,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Monguno,1300,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Monguno,4338.71,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Monguno,3838.71,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Monguno,846.77,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Monguno,4000,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Monguno,6500,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Monguno,2000,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Monguno,7677.42,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Monguno,9532.26,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Monguno,4000,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Monguno,291.94,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Monguno,1550,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Monguno,5623.39,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Monguno,2200,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Monguno,2838.71,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Monguno,3338.71,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Monguno,2608.06,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Monguno,2417.74,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Monguno,2608.06,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Monguno,3870.97,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Monguno,1200,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Monguno,409.68,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Monguno,504.84,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Monguno,150,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Monguno,238.71,0.5 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Pulka,1950,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Pulka,1195.83,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Pulka,4562.5,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Pulka,3083.33,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Pulka,908.33,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Pulka,3250,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Pulka,7500,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Pulka,1208.33,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Pulka,6500,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Pulka,7333.33,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Pulka,4000,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Pulka,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Pulka,1570.83,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Pulka,4858.33,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Pulka,2000,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Pulka,2697.92,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Pulka,2645.83,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Pulka,2625,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Pulka,2104.17,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Pulka,2170.83,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Pulka,4370.83,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Pulka,500,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Pulka,416.67,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Pulka,329.17,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Pulka,100,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Pulka,300,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Pulka,1791.67,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Rann,1518.28,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Rann,1324.73,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Rann,3486.56,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Rann,2359.68,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Rann,1372.04,2.7 KG,2026-07-01,wfp_hdx
 Yam,Borno,Rann,3000,2.5 KG,2026-07-01,wfp_hdx
 Eggs,Borno,Rann,9000,30 pcs,2026-07-01,wfp_hdx
-Fish,Borno,Rann,500,KG,2026-07-01,wfp_hdx
-Meat (beef),Borno,Rann,8000,KG,2026-07-01,wfp_hdx
-Meat (goat),Borno,Rann,9000,KG,2026-07-01,wfp_hdx
-Milk (powder),Borno,Rann,2600,400 G,2026-07-01,wfp_hdx
-Salt,Borno,Rann,300,250 G,2026-07-01,wfp_hdx
+Fish,Borno,Rann,1282.26,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Rann,8403.23,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Rann,8913.98,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Rann,2935.48,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Rann,286.29,250 G,2026-07-01,wfp_hdx
 Seasoning (maggi cube),Borno,Rann,1500,400 G,2026-07-01,wfp_hdx
-Sugar,Borno,Rann,800,500 G,2026-07-01,wfp_hdx
-Oil (palm),Borno,Rann,2500,L,2026-07-01,wfp_hdx
-Oil (vegetable),Borno,Rann,2500,L,2026-07-01,wfp_hdx
-Beans (red),Borno,Rann,2500,2.5 KG,2026-07-01,wfp_hdx
+Sugar,Borno,Rann,3169.36,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Rann,5000,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Rann,2567.74,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Rann,2454.84,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Rann,2662.9,2.5 KG,2026-07-01,wfp_hdx
 Beans (white),Borno,Rann,2500,2.5 KG,2026-07-01,wfp_hdx
-Cowpeas,Borno,Rann,4500,2.5 KG,2026-07-01,wfp_hdx
-Groundnuts,Borno,Rann,3500,2.2 KG,2026-07-01,wfp_hdx
-Bananas,Borno,Rann,1000,1.3 KG,2026-07-01,wfp_hdx
-Onions,Borno,Rann,300,0.5 KG,2026-07-01,wfp_hdx
-Oranges,Borno,Rann,500,400 G,2026-07-01,wfp_hdx
-Spinach,Borno,Rann,200,300 G,2026-07-01,wfp_hdx
-Tomatoes,Borno,Rann,500,0.5 KG,2026-07-01,wfp_hdx
-Watermelons,Borno,Rann,2000,2.1 KG,2026-07-01,wfp_hdx
-Fuel (petrol-gasoline),Borno,Dikwa Central,2000,L,2026-07-01,wfp_hdx
-Bananas,Borno,Dikwa Central,5,1.3 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Rann,2682.8,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Rann,2781.18,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Rann,1244.62,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Rann,384.95,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Rann,545.16,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Rann,182.53,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Rann,458.6,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Rann,1779.57,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Abba Gamaram,2319.23,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Abba Gamaram,1305.77,2.6 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Abba Gamaram,3540.38,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Abba Gamaram,1346.15,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Abba Gamaram,3336.84,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Abba Gamaram,5500,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Abba Gamaram,2182.69,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Abba Gamaram,7000,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Abba Gamaram,7000,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Abba Gamaram,2573.08,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Abba Gamaram,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Abba Gamaram,1538.46,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Abba Gamaram,5226.92,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Abba Gamaram,1334.13,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Abba Gamaram,3220.67,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Abba Gamaram,2500,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Abba Gamaram,3034.62,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Abba Gamaram,3819.23,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Abba Gamaram,4000,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Abba Gamaram,3838.46,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Abba Gamaram,1661.54,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Abba Gamaram,286.54,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Abba Gamaram,326.92,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Abba Gamaram,176.92,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Abba Gamaram,359.62,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Abba Gamaram,1826.92,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Banki,1600,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Banki,900,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Banki,4000,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Banki,2600,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Banki,725,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Banki,3500,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Banki,6000,30 pcs,2026-07-01,wfp_hdx
+Meat (beef),Borno,Banki,5000,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Banki,7000,KG,2026-07-01,wfp_hdx
+Salt,Borno,Banki,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Banki,1500,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Banki,4800,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Banki,2500,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Banki,2400,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Banki,2500,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Banki,2400,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Banki,2100,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Banki,2150,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Banki,3800,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Banki,500,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Banki,300,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Banki,500,400 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Banki,400,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Banki,2500,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Dikwa Central,1036.54,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Dikwa Central,1200,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Dikwa Central,3500,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Dikwa Central,3073.08,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Dikwa Central,754.81,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Dikwa Central,3317.31,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Dikwa Central,7136.54,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Dikwa Central,2269.23,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Dikwa Central,8134.62,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Dikwa Central,10184.21,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Dikwa Central,4000,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Dikwa Central,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Dikwa Central,1500,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Dikwa Central,5000,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Dikwa Central,2283.87,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Dikwa Central,2500,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Dikwa Central,2500,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Dikwa Central,2380.77,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Dikwa Central,2273.08,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Dikwa Central,2326.92,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Dikwa Central,4013.46,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Dikwa Central,839.52,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Dikwa Central,209.62,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Dikwa Central,250,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Dikwa Central,100,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Dikwa Central,263.46,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Dikwa Central,2269.23,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Mafa,1391.94,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Mafa,2119.35,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Mafa,3119.35,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Mafa,2856.45,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Mafa,680.24,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Mafa,4818.55,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Mafa,7988.71,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Mafa,3645.16,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Mafa,6479.84,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Mafa,7000,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Mafa,5838.71,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Mafa,297.58,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Mafa,1783.87,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Mafa,5663.71,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Mafa,1330.97,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Mafa,3572.18,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Mafa,3233.87,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Mafa,2648.39,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Mafa,2291.13,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Mafa,2409.68,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Mafa,3487.1,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Mafa,1143.55,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Mafa,465.32,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Mafa,495.97,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Mafa,104.03,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Mafa,528.23,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Mafa,1895.16,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Custom,2293.55,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Custom,1235.48,2.6 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Custom,3466.13,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Custom,1285.48,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Custom,2845.16,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Custom,5467.74,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Custom,2204.84,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Custom,7000,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Custom,7000,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Custom,2400,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Custom,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Custom,1500,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Custom,5061.29,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Custom,1350.89,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Custom,3243.15,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Custom,2500,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Custom,2859.68,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Custom,3609.68,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Custom,3793.55,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Custom,3866.13,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Custom,1593.55,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Custom,240.32,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Custom,300,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Custom,145.97,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Custom,300,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Custom,1750,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Monday,2332.69,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Monday,1178.85,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Monday,7578.95,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Monday,3372.12,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Monday,1182.69,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Monday,2000,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Monday,6800,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Monday,3480.77,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Monday,7750,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Monday,7701.92,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Monday,4486.54,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Monday,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Monday,1650,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Monday,5730.77,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Monday,1285.12,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Monday,3594.23,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Monday,4392.31,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Monday,2880.77,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Monday,2401.92,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Monday,5865.38,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Monday,5703.85,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Monday,1000,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Monday,300,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Monday,346.15,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Monday,150,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Monday,233.65,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Monday,1551.92,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Tashan Bama,2294.62,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Tashan Bama,1201.08,2.6 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Tashan Bama,3345.7,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Tashan Bama,1185.48,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Tashan Bama,2013.98,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Tashan Bama,6819.35,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Tashan Bama,3411.29,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Tashan Bama,7771.51,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Tashan Bama,7733.87,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Tashan Bama,4334.62,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Tashan Bama,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Tashan Bama,1669.89,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Tashan Bama,5701.61,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Tashan Bama,1296.61,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Tashan Bama,3769.09,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Tashan Bama,4064.71,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Tashan Bama,2988.17,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Tashan Bama,2450,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Borno,Tashan Bama,6000,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Tashan Bama,5791.4,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Tashan Bama,1009.68,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Tashan Bama,298.92,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Tashan Bama,354.84,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Tashan Bama,165.59,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Tashan Bama,226.92,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Tashan Bama,1472.58,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Damassack (CBM),1800,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Damassack (CBM),1141.18,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Damassack (CBM),3941.18,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Damassack (CBM),2682.35,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Damassack (CBM),1000,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Damassack (CBM),5000,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Damassack (CBM),6000,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Damassack (CBM),1838.24,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Damassack (CBM),9117.65,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Damassack (CBM),6470.59,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Damassack (CBM),4000,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Damassack (CBM),250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Damassack (CBM),1500,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Damassack (CBM),4517.65,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Damassack (CBM),2323.53,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Damassack (CBM),1800,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Damassack (CBM),2000,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Damassack (CBM),2852.94,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Damassack (CBM),2352.94,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Damassack (CBM),4000,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Damassack (CBM),588.24,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Damassack (CBM),788.24,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Damassack (CBM),500,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Damassack (CBM),144.12,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Damassack (CBM),214.71,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Damassack (CBM),1897.06,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Ngala,1600,2.1 KG,2026-07-01,wfp_hdx
+Millet,Borno,Ngala,1500,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Borno,Ngala,4000,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Borno,Ngala,2800,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Borno,Ngala,800,2.7 KG,2026-07-01,wfp_hdx
+Yam,Borno,Ngala,6000,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Borno,Ngala,6500,30 pcs,2026-07-01,wfp_hdx
+Fish,Borno,Ngala,2000,KG,2026-07-01,wfp_hdx
+Meat (beef),Borno,Ngala,6637.1,KG,2026-07-01,wfp_hdx
+Meat (goat),Borno,Ngala,6181.45,KG,2026-07-01,wfp_hdx
+Milk (powder),Borno,Ngala,5500,400 G,2026-07-01,wfp_hdx
+Salt,Borno,Ngala,300,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Borno,Ngala,1500,400 G,2026-07-01,wfp_hdx
+Sugar,Borno,Ngala,5000,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Ngala,2449.19,L,2026-07-01,wfp_hdx
+Oil (palm),Borno,Ngala,3000,L,2026-07-01,wfp_hdx
+Oil (vegetable),Borno,Ngala,3012.1,L,2026-07-01,wfp_hdx
+Beans (red),Borno,Ngala,3500,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Borno,Ngala,2629.44,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Borno,Ngala,4000,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Borno,Ngala,2500,1.3 KG,2026-07-01,wfp_hdx
+Onions,Borno,Ngala,500,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Borno,Ngala,500,400 G,2026-07-01,wfp_hdx
+Spinach,Borno,Ngala,100,300 G,2026-07-01,wfp_hdx
+Tomatoes,Borno,Ngala,500,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Borno,Ngala,3532.26,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Yobe,Bayantasha,2220.97,2.1 KG,2026-07-01,wfp_hdx
+Millet,Yobe,Bayantasha,1042.03,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Yobe,Bayantasha,4412.9,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Yobe,Bayantasha,2793.55,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Yobe,Bayantasha,1123.39,2.7 KG,2026-07-01,wfp_hdx
+Yam,Yobe,Bayantasha,4420.97,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Yobe,Bayantasha,5591.94,30 pcs,2026-07-01,wfp_hdx
+Fish,Yobe,Bayantasha,1772.58,KG,2026-07-01,wfp_hdx
+Meat (beef),Yobe,Bayantasha,4430.65,KG,2026-07-01,wfp_hdx
+Meat (goat),Yobe,Bayantasha,3622.58,KG,2026-07-01,wfp_hdx
+Milk (powder),Yobe,Bayantasha,3566.13,400 G,2026-07-01,wfp_hdx
+Salt,Yobe,Bayantasha,350,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Bayantasha,1600,400 G,2026-07-01,wfp_hdx
+Sugar,Yobe,Bayantasha,4703.23,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Bayantasha,1278.5,L,2026-07-01,wfp_hdx
+Oil (palm),Yobe,Bayantasha,3711.69,L,2026-07-01,wfp_hdx
+Oil (vegetable),Yobe,Bayantasha,2548.39,L,2026-07-01,wfp_hdx
+Beans (red),Yobe,Bayantasha,2354.84,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Yobe,Bayantasha,2116.13,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Yobe,Bayantasha,2354.92,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Yobe,Bayantasha,4166.13,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Yobe,Bayantasha,924.19,1.3 KG,2026-07-01,wfp_hdx
+Onions,Yobe,Bayantasha,500,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Yobe,Bayantasha,412.1,400 G,2026-07-01,wfp_hdx
+Spinach,Yobe,Bayantasha,100,300 G,2026-07-01,wfp_hdx
+Tomatoes,Yobe,Bayantasha,100,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Yobe,Bayantasha,991.94,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Yobe,Damagum,1526.32,2.1 KG,2026-07-01,wfp_hdx
+Millet,Yobe,Damagum,1000,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Yobe,Damagum,3778.95,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Yobe,Damagum,2652.63,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Yobe,Damagum,800,2.7 KG,2026-07-01,wfp_hdx
+Yam,Yobe,Damagum,2918.42,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Yobe,Damagum,7500,30 pcs,2026-07-01,wfp_hdx
+Fish,Yobe,Damagum,3452.63,KG,2026-07-01,wfp_hdx
+Meat (beef),Yobe,Damagum,6500,KG,2026-07-01,wfp_hdx
+Meat (goat),Yobe,Damagum,7500,KG,2026-07-01,wfp_hdx
+Milk (powder),Yobe,Damagum,4000,400 G,2026-07-01,wfp_hdx
+Salt,Yobe,Damagum,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Damagum,1500,400 G,2026-07-01,wfp_hdx
+Sugar,Yobe,Damagum,4800,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Damagum,1325,L,2026-07-01,wfp_hdx
+Oil (palm),Yobe,Damagum,2625,L,2026-07-01,wfp_hdx
+Oil (vegetable),Yobe,Damagum,2625,L,2026-07-01,wfp_hdx
+Beans (red),Yobe,Damagum,2563.16,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Yobe,Damagum,2436.84,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Yobe,Damagum,2000,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Yobe,Damagum,3276.32,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Yobe,Damagum,582.89,1.3 KG,2026-07-01,wfp_hdx
+Onions,Yobe,Damagum,500,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Yobe,Damagum,366.05,400 G,2026-07-01,wfp_hdx
+Spinach,Yobe,Damagum,139.47,300 G,2026-07-01,wfp_hdx
+Tomatoes,Yobe,Damagum,200,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Yobe,Damagum,596.05,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Yobe,Gujba (Buni Yadi),1425.81,2.1 KG,2026-07-01,wfp_hdx
+Millet,Yobe,Gujba (Buni Yadi),1062.9,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Yobe,Gujba (Buni Yadi),3708.87,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Yobe,Gujba (Buni Yadi),2561.29,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Yobe,Gujba (Buni Yadi),958.06,2.7 KG,2026-07-01,wfp_hdx
+Yam,Yobe,Gujba (Buni Yadi),3812.9,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Yobe,Gujba (Buni Yadi),5664.52,30 pcs,2026-07-01,wfp_hdx
+Fish,Yobe,Gujba (Buni Yadi),3206.45,KG,2026-07-01,wfp_hdx
+Meat (beef),Yobe,Gujba (Buni Yadi),6153.23,KG,2026-07-01,wfp_hdx
+Meat (goat),Yobe,Gujba (Buni Yadi),6637.1,KG,2026-07-01,wfp_hdx
+Milk (powder),Yobe,Gujba (Buni Yadi),4267.74,400 G,2026-07-01,wfp_hdx
+Salt,Yobe,Gujba (Buni Yadi),294.35,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Gujba (Buni Yadi),1600.81,400 G,2026-07-01,wfp_hdx
+Sugar,Yobe,Gujba (Buni Yadi),4535.48,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Gujba (Buni Yadi),1273.71,L,2026-07-01,wfp_hdx
+Oil (palm),Yobe,Gujba (Buni Yadi),2545.97,L,2026-07-01,wfp_hdx
+Oil (vegetable),Yobe,Gujba (Buni Yadi),2500,L,2026-07-01,wfp_hdx
+Beans (red),Yobe,Gujba (Buni Yadi),2635.48,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Yobe,Gujba (Buni Yadi),2458.06,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Yobe,Gujba (Buni Yadi),2250,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Yobe,Gujba (Buni Yadi),3758.87,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Yobe,Gujba (Buni Yadi),641.94,1.3 KG,2026-07-01,wfp_hdx
+Onions,Yobe,Gujba (Buni Yadi),430.65,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Yobe,Gujba (Buni Yadi),266.13,400 G,2026-07-01,wfp_hdx
+Spinach,Yobe,Gujba (Buni Yadi),100,300 G,2026-07-01,wfp_hdx
+Tomatoes,Yobe,Gujba (Buni Yadi),337.9,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Yobe,Gujba (Buni Yadi),800,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Yobe,Bade (Gashua),1632.69,2.1 KG,2026-07-01,wfp_hdx
+Millet,Yobe,Bade (Gashua),1200,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Yobe,Bade (Gashua),4073.08,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Yobe,Bade (Gashua),2573.08,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Yobe,Bade (Gashua),1000,2.7 KG,2026-07-01,wfp_hdx
+Yam,Yobe,Bade (Gashua),2586.54,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Yobe,Bade (Gashua),6000,30 pcs,2026-07-01,wfp_hdx
+Fish,Yobe,Bade (Gashua),2500,KG,2026-07-01,wfp_hdx
+Meat (beef),Yobe,Bade (Gashua),4200,KG,2026-07-01,wfp_hdx
+Meat (goat),Yobe,Bade (Gashua),4500,KG,2026-07-01,wfp_hdx
+Milk (powder),Yobe,Bade (Gashua),6400,400 G,2026-07-01,wfp_hdx
+Salt,Yobe,Bade (Gashua),300,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Bade (Gashua),1600,400 G,2026-07-01,wfp_hdx
+Sugar,Yobe,Bade (Gashua),4500,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Bade (Gashua),1309.04,L,2026-07-01,wfp_hdx
+Oil (palm),Yobe,Bade (Gashua),2000,L,2026-07-01,wfp_hdx
+Oil (vegetable),Yobe,Bade (Gashua),2200,L,2026-07-01,wfp_hdx
+Beans (red),Yobe,Bade (Gashua),2400,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Yobe,Bade (Gashua),2300,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Yobe,Bade (Gashua),2000,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Yobe,Bade (Gashua),3500,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Yobe,Bade (Gashua),1200,1.3 KG,2026-07-01,wfp_hdx
+Onions,Yobe,Bade (Gashua),200,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Yobe,Bade (Gashua),300,400 G,2026-07-01,wfp_hdx
+Spinach,Yobe,Bade (Gashua),80,300 G,2026-07-01,wfp_hdx
+Tomatoes,Yobe,Bade (Gashua),300,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Yobe,Bade (Gashua),1000,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Yobe,Nangere,1500,2.1 KG,2026-07-01,wfp_hdx
+Millet,Yobe,Nangere,1000,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Yobe,Nangere,4000,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Yobe,Nangere,3000,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Yobe,Nangere,1000,2.7 KG,2026-07-01,wfp_hdx
+Yam,Yobe,Nangere,4000,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Yobe,Nangere,6269.23,30 pcs,2026-07-01,wfp_hdx
+Fish,Yobe,Nangere,3596.15,KG,2026-07-01,wfp_hdx
+Meat (beef),Yobe,Nangere,7000,KG,2026-07-01,wfp_hdx
+Meat (goat),Yobe,Nangere,7500,KG,2026-07-01,wfp_hdx
+Milk (powder),Yobe,Nangere,4000,400 G,2026-07-01,wfp_hdx
+Salt,Yobe,Nangere,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Nangere,1600,400 G,2026-07-01,wfp_hdx
+Sugar,Yobe,Nangere,3865.38,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Nangere,1350,L,2026-07-01,wfp_hdx
+Oil (palm),Yobe,Nangere,2941.35,L,2026-07-01,wfp_hdx
+Oil (vegetable),Yobe,Nangere,2500,L,2026-07-01,wfp_hdx
+Beans (red),Yobe,Nangere,2663.46,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Yobe,Nangere,2442.31,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Yobe,Nangere,2403.85,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Yobe,Nangere,4000,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Yobe,Nangere,653.85,1.3 KG,2026-07-01,wfp_hdx
+Onions,Yobe,Nangere,100,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Yobe,Nangere,400,400 G,2026-07-01,wfp_hdx
+Spinach,Yobe,Nangere,66.35,300 G,2026-07-01,wfp_hdx
+Tomatoes,Yobe,Nangere,100,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Yobe,Nangere,946.15,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Yobe,Potiskum,1188.71,2.1 KG,2026-07-01,wfp_hdx
+Millet,Yobe,Potiskum,1162.1,2.6 KG,2026-07-01,wfp_hdx
+Rice (imported),Yobe,Potiskum,3696.77,2.8 KG,2026-07-01,wfp_hdx
+Rice (local),Yobe,Potiskum,1583.87,2.7 KG,2026-07-01,wfp_hdx
+Sorghum,Yobe,Potiskum,983.87,2.7 KG,2026-07-01,wfp_hdx
+Yam,Yobe,Potiskum,2919.35,2.5 KG,2026-07-01,wfp_hdx
+Eggs,Yobe,Potiskum,6745.16,30 pcs,2026-07-01,wfp_hdx
+Fish,Yobe,Potiskum,1500,KG,2026-07-01,wfp_hdx
+Meat (beef),Yobe,Potiskum,6000,KG,2026-07-01,wfp_hdx
+Meat (goat),Yobe,Potiskum,6000,KG,2026-07-01,wfp_hdx
+Milk (powder),Yobe,Potiskum,4000,400 G,2026-07-01,wfp_hdx
+Salt,Yobe,Potiskum,250,250 G,2026-07-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Potiskum,1458.06,400 G,2026-07-01,wfp_hdx
+Sugar,Yobe,Potiskum,4575.81,500 G,2026-07-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Potiskum,1286.77,L,2026-07-01,wfp_hdx
+Oil (palm),Yobe,Potiskum,2450,L,2026-07-01,wfp_hdx
+Oil (vegetable),Yobe,Potiskum,2604.84,L,2026-07-01,wfp_hdx
+Beans (red),Yobe,Potiskum,2442.74,2.5 KG,2026-07-01,wfp_hdx
+Beans (white),Yobe,Potiskum,2388.71,2.5 KG,2026-07-01,wfp_hdx
+Cowpeas,Yobe,Potiskum,2386.54,2.5 KG,2026-07-01,wfp_hdx
+Groundnuts,Yobe,Potiskum,3112.9,2.2 KG,2026-07-01,wfp_hdx
+Bananas,Yobe,Potiskum,716.13,1.3 KG,2026-07-01,wfp_hdx
+Onions,Yobe,Potiskum,488.71,0.5 KG,2026-07-01,wfp_hdx
+Oranges,Yobe,Potiskum,500,400 G,2026-07-01,wfp_hdx
+Spinach,Yobe,Potiskum,161.29,300 G,2026-07-01,wfp_hdx
+Tomatoes,Yobe,Potiskum,350,0.5 KG,2026-07-01,wfp_hdx
+Watermelons,Yobe,Potiskum,683.87,2.1 KG,2026-07-01,wfp_hdx
+Maize flour,Borno,Monguno,3000,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Monguno,1300,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Monguno,4033.33,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Monguno,3533.33,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Monguno,898.33,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Monguno,4000,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Monguno,6500,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Monguno,2000,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Monguno,7000,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Monguno,7765,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Monguno,4000,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Monguno,300,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Monguno,1578.12,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Monguno,5166.67,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Monguno,2176.67,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Monguno,2813.33,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Monguno,3033.33,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Monguno,3500,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Monguno,3500,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Monguno,2891.3,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Monguno,4200,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Monguno,1184.78,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Monguno,600,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Monguno,588.33,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Monguno,150,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Monguno,300,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Monguno,800,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Pulka,1412.5,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Pulka,1086.67,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Pulka,4000,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Pulka,3060.34,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Pulka,716.38,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Pulka,5268.97,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Pulka,7198.28,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Pulka,1862.07,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Pulka,7000,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Pulka,6905.17,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Pulka,4095.45,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Pulka,250,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Pulka,1583.33,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Pulka,5048.28,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Pulka,2108.62,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Pulka,2325.86,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Pulka,2450.86,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Pulka,2758.62,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Pulka,2270.69,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Pulka,2126.67,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Pulka,4625.86,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Pulka,1563.33,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Pulka,741.38,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Pulka,500,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Pulka,118.18,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Pulka,618.18,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Pulka,1868.18,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Rann,1870,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Rann,1460,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Rann,3475,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Rann,2630,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Rann,1158.33,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Rann,3198.33,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Rann,9000,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Rann,1465,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Rann,8720.83,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Rann,8933.33,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Rann,3402.5,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Rann,311.25,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Rann,1500,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Rann,4074.17,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Rann,4166.67,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Rann,2715.83,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Rann,2809.17,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Rann,3265,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Rann,2943.33,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Rann,2586.96,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Rann,2788.33,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Rann,1315,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Rann,435.83,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Rann,523.33,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Rann,164.58,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Rann,453.33,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Rann,1945.83,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Abba Gamaram,1746.67,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Abba Gamaram,1271.67,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Abba Gamaram,6000,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Abba Gamaram,3570,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Abba Gamaram,1283.33,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Abba Gamaram,3031.67,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Abba Gamaram,5686.67,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Abba Gamaram,2140.62,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Abba Gamaram,7700,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Abba Gamaram,7700,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Abba Gamaram,2740,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Abba Gamaram,250,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Abba Gamaram,1568.75,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Abba Gamaram,5036.67,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Abba Gamaram,1350.33,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Abba Gamaram,3132.5,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Abba Gamaram,3488.75,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Abba Gamaram,3355,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Abba Gamaram,3993.33,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Abba Gamaram,2432.61,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Abba Gamaram,3836.67,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Abba Gamaram,1535,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Abba Gamaram,405,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Abba Gamaram,317.5,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Abba Gamaram,115,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Abba Gamaram,394.17,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Abba Gamaram,1566.67,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Baga Road,1800,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Baga Road,1500,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Baga Road,5500,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Baga Road,2766.67,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Baga Road,1533.33,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Baga Road,3166.67,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Baga Road,6266.67,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Baga Road,2833.33,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Baga Road,5666.67,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Baga Road,6833.33,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Baga Road,4166.67,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Baga Road,250,250 G,2026-08-01,wfp_hdx
+Sugar,Borno,Baga Road,5333.33,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Baga Road,1336.67,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Baga Road,2700,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Baga Road,3666.67,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Baga Road,3066.67,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Baga Road,2600,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Baga Road,3066.67,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Baga Road,4500,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Baga Road,566.67,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Baga Road,300,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Baga Road,400,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Baga Road,116.67,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Baga Road,200,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Baga Road,1500,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Banki,2000,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Banki,1024.14,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Banki,3985.52,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Banki,3171.72,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Banki,981.9,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Banki,3500,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Banki,6268.97,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Banki,2225,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Banki,4782.76,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Banki,7000,KG,2026-08-01,wfp_hdx
+Salt,Borno,Banki,250,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Banki,1700,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Banki,5144.66,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Banki,2234.48,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Banki,3069.66,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Banki,3432.41,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Banki,2920.69,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Banki,2430,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Banki,2400,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Banki,4038.45,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Banki,517.24,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Banki,529.31,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Banki,495.17,400 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Banki,726.9,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Banki,2577.59,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Bullunkutu,1800,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Bullunkutu,1700,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Bullunkutu,5600,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Bullunkutu,2900,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Bullunkutu,1700,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Bullunkutu,4000,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Bullunkutu,6000,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Bullunkutu,3000,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Bullunkutu,5000,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Bullunkutu,7000,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Bullunkutu,4000,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Bullunkutu,250,250 G,2026-08-01,wfp_hdx
+Sugar,Borno,Bullunkutu,5000,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Bullunkutu,1330,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Bullunkutu,2300,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Bullunkutu,3500,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Bullunkutu,2400,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Bullunkutu,2500,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Bullunkutu,2600,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Bullunkutu,4000,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Bullunkutu,500,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Bullunkutu,350,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Bullunkutu,400,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Bullunkutu,100,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Bullunkutu,200,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Bullunkutu,1500,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Dikwa Central,1057.26,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Dikwa Central,1191.13,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Dikwa Central,3596.77,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Dikwa Central,3175.81,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Dikwa Central,687.9,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Dikwa Central,3016.13,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Dikwa Central,7475.81,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Dikwa Central,2056.45,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Dikwa Central,7967.74,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Dikwa Central,9483.87,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Dikwa Central,4000,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Dikwa Central,250,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Dikwa Central,1500,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Dikwa Central,5000,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Dikwa Central,2062.1,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Dikwa Central,2500,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Dikwa Central,2500,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Dikwa Central,2572.58,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Dikwa Central,2582.26,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Dikwa Central,2380,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Dikwa Central,3903.23,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Dikwa Central,959.14,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Dikwa Central,229.03,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Dikwa Central,251.61,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Dikwa Central,100,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Dikwa Central,236.56,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Dikwa Central,2056.45,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Mafa,1374.19,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Mafa,1613.33,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Mafa,3472.89,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Mafa,3105.59,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Mafa,779.14,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Mafa,4394.62,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Mafa,7684.19,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Mafa,2306,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Mafa,6361.83,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Mafa,6808.06,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Mafa,5486.67,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Mafa,296.24,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Mafa,1751.87,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Mafa,5549.89,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Mafa,1411.3,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Mafa,3425.91,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Mafa,3467.53,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Mafa,3066.45,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Mafa,2728.82,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Mafa,2285.42,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Mafa,3760.75,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Mafa,1045.38,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Mafa,488.98,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Mafa,431.29,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Mafa,110.65,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Mafa,421.99,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Mafa,1803.01,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Budum,2650,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Budum,1150,2.6 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Budum,3550,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Budum,1200,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Budum,2500,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Budum,6900,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Budum,2250,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Budum,5000,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Budum,4750,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Budum,4000,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Budum,250,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Budum,1500,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Budum,5750,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Budum,1425,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Budum,3062.5,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Budum,3750,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Budum,4000,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Budum,2800,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Budum,3600,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Budum,5000,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Budum,600,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Budum,250,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Budum,350,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Budum,150,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Budum,175,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Budum,1500,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Custom,1723.33,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Custom,1230,2.6 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Custom,3423.33,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Custom,1268.33,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Custom,3185,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Custom,5703.33,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Custom,1848.33,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Custom,7700,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Custom,7700,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Custom,2668.33,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Custom,250,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Custom,1510.94,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Custom,4976.67,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Custom,1334.58,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Custom,2951.67,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Custom,3447.92,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Custom,3188.33,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Custom,3740,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Custom,2384.78,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Custom,3800,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Custom,1430,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Custom,325.83,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Custom,323.33,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Custom,129.17,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Custom,335,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Custom,1536.67,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Kashuwan Shanu,2650,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Kashuwan Shanu,1150,2.6 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Kashuwan Shanu,3550,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Kashuwan Shanu,1200,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Kashuwan Shanu,2500,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Kashuwan Shanu,6900,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Kashuwan Shanu,2250,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Kashuwan Shanu,5000,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Kashuwan Shanu,4750,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Kashuwan Shanu,4000,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Kashuwan Shanu,250,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Kashuwan Shanu,1500,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Kashuwan Shanu,5750,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Kashuwan Shanu,1425,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Kashuwan Shanu,3062.5,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Kashuwan Shanu,4125,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Kashuwan Shanu,4000,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Kashuwan Shanu,2800,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Kashuwan Shanu,3600,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Kashuwan Shanu,4958.33,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Kashuwan Shanu,600,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Kashuwan Shanu,237.5,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Kashuwan Shanu,350,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Kashuwan Shanu,150,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Kashuwan Shanu,175,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Kashuwan Shanu,1500,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Monday,2038.33,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Monday,1218.33,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Monday,6750,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Monday,3371.67,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Monday,1156.67,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Monday,1860,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Monday,6846.67,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Monday,2758.33,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Monday,7225,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Monday,6916.67,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Monday,4418.33,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Monday,238.33,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Monday,1606.25,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Monday,5580,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Monday,1369.25,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Monday,4144.58,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Monday,4255,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Monday,3430,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Monday,2573.33,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Monday,3823.91,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Monday,5673.33,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Monday,900.83,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Monday,241.67,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Monday,388.33,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Monday,173.33,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Monday,200,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Monday,1361.67,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Tashan Bama,1989.13,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Tashan Bama,1219.57,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Tashan Bama,7800,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Tashan Bama,3471.74,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Tashan Bama,1147.83,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Tashan Bama,1656.52,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Tashan Bama,7000,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Tashan Bama,2836.96,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Tashan Bama,7293.48,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Tashan Bama,7095.65,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Tashan Bama,4216.67,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Tashan Bama,234.78,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Tashan Bama,1700,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Tashan Bama,5736.96,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Tashan Bama,1369.02,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Tashan Bama,4489.13,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Tashan Bama,4500,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Tashan Bama,3591.3,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Tashan Bama,2652.17,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Tashan Bama,4075,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Tashan Bama,5756.52,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Tashan Bama,1030.43,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Tashan Bama,207.61,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Tashan Bama,384.78,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Tashan Bama,161.96,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Tashan Bama,184.78,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Tashan Bama,1273.91,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Damassack (CBM),1901.11,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Damassack (CBM),1085.56,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Damassack (CBM),4013.89,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Damassack (CBM),2995,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Damassack (CBM),1000,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Damassack (CBM),4735.56,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Damassack (CBM),6233.33,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Damassack (CBM),1632.22,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Damassack (CBM),7767.78,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Damassack (CBM),9662.78,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Damassack (CBM),4000,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Damassack (CBM),483.33,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Damassack (CBM),1521.88,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Damassack (CBM),4318.89,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Damassack (CBM),3006.67,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Damassack (CBM),1835,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Damassack (CBM),1976.67,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Damassack (CBM),2965,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Damassack (CBM),2729.44,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Damassack (CBM),1450,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Damassack (CBM),3844.44,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Damassack (CBM),685.56,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Damassack (CBM),694.44,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Damassack (CBM),500,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Damassack (CBM),184.44,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Damassack (CBM),331.67,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Damassack (CBM),1736.67,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Ngala,1592.22,2.1 KG,2026-08-01,wfp_hdx
+Millet,Borno,Ngala,1500,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Borno,Ngala,3930,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Borno,Ngala,3010,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Borno,Ngala,811.67,2.7 KG,2026-08-01,wfp_hdx
+Yam,Borno,Ngala,4950,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Borno,Ngala,7025,30 pcs,2026-08-01,wfp_hdx
+Fish,Borno,Ngala,2000,KG,2026-08-01,wfp_hdx
+Meat (beef),Borno,Ngala,6747.22,KG,2026-08-01,wfp_hdx
+Meat (goat),Borno,Ngala,6126.39,KG,2026-08-01,wfp_hdx
+Milk (powder),Borno,Ngala,5500,400 G,2026-08-01,wfp_hdx
+Salt,Borno,Ngala,300,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Borno,Ngala,1500,400 G,2026-08-01,wfp_hdx
+Sugar,Borno,Ngala,5000,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Ngala,2617.5,L,2026-08-01,wfp_hdx
+Oil (palm),Borno,Ngala,3000,L,2026-08-01,wfp_hdx
+Oil (vegetable),Borno,Ngala,3000,L,2026-08-01,wfp_hdx
+Beans (red),Borno,Ngala,3966.67,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Borno,Ngala,3349.17,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Borno,Ngala,2633.33,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Borno,Ngala,4000,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Borno,Ngala,2500,1.3 KG,2026-08-01,wfp_hdx
+Onions,Borno,Ngala,500,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Borno,Ngala,478.61,400 G,2026-08-01,wfp_hdx
+Spinach,Borno,Ngala,120.42,300 G,2026-08-01,wfp_hdx
+Tomatoes,Borno,Ngala,500,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Borno,Ngala,3058.33,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Bayantasha,2260,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Bayantasha,1085,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Bayantasha,4751.67,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Bayantasha,2786.67,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Bayantasha,1211.67,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Bayantasha,4651.67,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Bayantasha,5611.67,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Bayantasha,1746.67,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Bayantasha,4640,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Bayantasha,3535,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Bayantasha,3530,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Bayantasha,210,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Bayantasha,1600,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Bayantasha,4688.33,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Bayantasha,1340.17,L,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Bayantasha,4003.13,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Bayantasha,2800,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Bayantasha,2523.33,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Bayantasha,2176.67,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Bayantasha,2116.67,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Bayantasha,4025,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Bayantasha,1003.33,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Bayantasha,500,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Bayantasha,475,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Bayantasha,100,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Bayantasha,140.83,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Bayantasha,1011.67,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Damagum,1506.67,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Damagum,1000,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Damagum,3650,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Damagum,2800,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Damagum,800,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Damagum,2620,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Damagum,7500,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Damagum,2293.33,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Damagum,6208.33,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Damagum,7150,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Damagum,4000,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Damagum,185.83,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Damagum,1500,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Damagum,4870,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Damagum,1356.5,L,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Damagum,3015.83,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Damagum,3033.33,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Damagum,2856.67,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Damagum,2598.33,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Damagum,2200,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Damagum,3000,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Damagum,605,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Damagum,500,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Damagum,332.83,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Damagum,238.33,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Damagum,182.5,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Damagum,748.33,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Gujba (Buni Yadi),1471.67,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Gujba (Buni Yadi),1161.67,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Gujba (Buni Yadi),3653.33,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Gujba (Buni Yadi),2735,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Gujba (Buni Yadi),1061.67,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Gujba (Buni Yadi),3486.67,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Gujba (Buni Yadi),5675,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Gujba (Buni Yadi),2226.67,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Gujba (Buni Yadi),6000,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Gujba (Buni Yadi),6616.67,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Gujba (Buni Yadi),4093.33,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Gujba (Buni Yadi),224.17,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Gujba (Buni Yadi),1609.37,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Gujba (Buni Yadi),4585,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Gujba (Buni Yadi),1356.83,L,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Gujba (Buni Yadi),2584.17,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Gujba (Buni Yadi),2780,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Gujba (Buni Yadi),3150,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Gujba (Buni Yadi),3008.33,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Gujba (Buni Yadi),2071.87,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Gujba (Buni Yadi),3881.67,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Gujba (Buni Yadi),650,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Gujba (Buni Yadi),385,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Gujba (Buni Yadi),223.33,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Gujba (Buni Yadi),129.17,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Gujba (Buni Yadi),183.33,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Gujba (Buni Yadi),940,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Gulani (Tettaba),1091.67,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Gulani (Tettaba),858.33,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Gulani (Tettaba),4133.33,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Gulani (Tettaba),3900,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Gulani (Tettaba),775,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Gulani (Tettaba),3750,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Gulani (Tettaba),7500,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Gulani (Tettaba),2750,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Gulani (Tettaba),5266.67,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Gulani (Tettaba),5183.33,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Gulani (Tettaba),3666.67,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Gulani (Tettaba),466.67,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Gulani (Tettaba),1600,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Gulani (Tettaba),4716.67,500 G,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Gulani (Tettaba),3333.33,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Gulani (Tettaba),3450,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Gulani (Tettaba),2816.67,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Gulani (Tettaba),2700,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Gulani (Tettaba),2633.33,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Gulani (Tettaba),3958.33,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Gulani (Tettaba),516.67,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Gulani (Tettaba),516.67,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Gulani (Tettaba),433.33,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Gulani (Tettaba),200,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Gulani (Tettaba),466.67,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Gulani (Tettaba),725,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Bade (Gashua),1600,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Bade (Gashua),1200,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Bade (Gashua),4212.5,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Bade (Gashua),2575,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Bade (Gashua),1000,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Bade (Gashua),2300,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Bade (Gashua),6000,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Bade (Gashua),2000,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Bade (Gashua),4350,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Bade (Gashua),4750,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Bade (Gashua),5512.5,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Bade (Gashua),220,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Bade (Gashua),1600,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Bade (Gashua),4500,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Bade (Gashua),1333.75,L,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Bade (Gashua),2462.5,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Bade (Gashua),2737.5,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Bade (Gashua),2500,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Bade (Gashua),2400,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Bade (Gashua),2000,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Bade (Gashua),3500,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Bade (Gashua),1100,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Bade (Gashua),200,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Bade (Gashua),300,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Bade (Gashua),80,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Bade (Gashua),262.5,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Bade (Gashua),1000,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Nangere,1500,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Nangere,1100,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Nangere,4500,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Nangere,3500,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Nangere,1100,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Nangere,4000,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Nangere,6166.67,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Nangere,2000,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Nangere,7000,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Nangere,7500,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Nangere,4000,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Nangere,500,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Nangere,1600,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Nangere,4300,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Nangere,1350,L,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Nangere,2897.22,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Nangere,3227.78,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Nangere,2700,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Nangere,2500,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Nangere,3000,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Nangere,4000,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Nangere,683.33,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Nangere,100,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Nangere,400,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Nangere,50,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Nangere,100,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Nangere,1000,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Potiskum,1153.33,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Potiskum,953.33,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Potiskum,3740,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Potiskum,1600,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Potiskum,900,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Potiskum,3116.67,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Potiskum,6180,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Potiskum,1675,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Potiskum,6000,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Potiskum,6350,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Potiskum,4000,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Potiskum,166,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Potiskum,1450,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Potiskum,4496.67,500 G,2026-08-01,wfp_hdx
+Fuel (petrol-gasoline),Yobe,Potiskum,1312.67,L,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Potiskum,2817.5,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Potiskum,3150,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Potiskum,2516.67,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Potiskum,2470,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Potiskum,1283.33,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Potiskum,2930,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Potiskum,723.33,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Potiskum,453.33,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Potiskum,500,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Potiskum,100,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Potiskum,400,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Potiskum,646.67,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Yobe,Biriri,1628.57,2.1 KG,2026-08-01,wfp_hdx
+Millet,Yobe,Biriri,1007.14,2.6 KG,2026-08-01,wfp_hdx
+Rice (imported),Yobe,Biriri,3707.14,2.8 KG,2026-08-01,wfp_hdx
+Rice (local),Yobe,Biriri,3239.29,2.7 KG,2026-08-01,wfp_hdx
+Sorghum,Yobe,Biriri,921.43,2.7 KG,2026-08-01,wfp_hdx
+Yam,Yobe,Biriri,4142.86,2.5 KG,2026-08-01,wfp_hdx
+Eggs,Yobe,Biriri,7500,30 pcs,2026-08-01,wfp_hdx
+Fish,Yobe,Biriri,1150,KG,2026-08-01,wfp_hdx
+Meat (beef),Yobe,Biriri,5250,KG,2026-08-01,wfp_hdx
+Meat (goat),Yobe,Biriri,6321.43,KG,2026-08-01,wfp_hdx
+Milk (powder),Yobe,Biriri,4500,400 G,2026-08-01,wfp_hdx
+Salt,Yobe,Biriri,375,250 G,2026-08-01,wfp_hdx
+Seasoning (maggi cube),Yobe,Biriri,1700,400 G,2026-08-01,wfp_hdx
+Sugar,Yobe,Biriri,4971.43,500 G,2026-08-01,wfp_hdx
+Oil (palm),Yobe,Biriri,3178.57,L,2026-08-01,wfp_hdx
+Oil (vegetable),Yobe,Biriri,3306.25,L,2026-08-01,wfp_hdx
+Beans (red),Yobe,Biriri,2907.14,2.5 KG,2026-08-01,wfp_hdx
+Beans (white),Yobe,Biriri,2778.57,2.5 KG,2026-08-01,wfp_hdx
+Cowpeas,Yobe,Biriri,2485.71,2.5 KG,2026-08-01,wfp_hdx
+Groundnuts,Yobe,Biriri,3464.29,2.2 KG,2026-08-01,wfp_hdx
+Bananas,Yobe,Biriri,750,1.3 KG,2026-08-01,wfp_hdx
+Onions,Yobe,Biriri,664.29,0.5 KG,2026-08-01,wfp_hdx
+Oranges,Yobe,Biriri,471.43,400 G,2026-08-01,wfp_hdx
+Spinach,Yobe,Biriri,158.33,300 G,2026-08-01,wfp_hdx
+Tomatoes,Yobe,Biriri,353.57,0.5 KG,2026-08-01,wfp_hdx
+Watermelons,Yobe,Biriri,1416.67,2.1 KG,2026-08-01,wfp_hdx
+Maize flour,Borno,Pulka,2200,2.1 KG,2026-09-01,wfp_hdx
+Millet,Borno,Pulka,900,2.6 KG,2026-09-01,wfp_hdx
+Rice (imported),Borno,Pulka,4000,2.8 KG,2026-09-01,wfp_hdx
+Rice (local),Borno,Pulka,3000,2.7 KG,2026-09-01,wfp_hdx
+Sorghum,Borno,Pulka,1000,2.7 KG,2026-09-01,wfp_hdx
+Yam,Borno,Pulka,3000,2.5 KG,2026-09-01,wfp_hdx
+Eggs,Borno,Pulka,7500,30 pcs,2026-09-01,wfp_hdx
+Fish,Borno,Pulka,1500,KG,2026-09-01,wfp_hdx
+Meat (beef),Borno,Pulka,7000,KG,2026-09-01,wfp_hdx
+Meat (goat),Borno,Pulka,6000,KG,2026-09-01,wfp_hdx
+Milk (powder),Borno,Pulka,4000,400 G,2026-09-01,wfp_hdx
+Salt,Borno,Pulka,250,250 G,2026-09-01,wfp_hdx
+Sugar,Borno,Pulka,5000,500 G,2026-09-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Pulka,2000,L,2026-09-01,wfp_hdx
+Oil (palm),Borno,Pulka,2700,L,2026-09-01,wfp_hdx
+Oil (vegetable),Borno,Pulka,3000,L,2026-09-01,wfp_hdx
+Beans (red),Borno,Pulka,3000,2.5 KG,2026-09-01,wfp_hdx
+Beans (white),Borno,Pulka,2500,2.5 KG,2026-09-01,wfp_hdx
+Cowpeas,Borno,Pulka,2500,2.5 KG,2026-09-01,wfp_hdx
+Groundnuts,Borno,Pulka,5000,2.2 KG,2026-09-01,wfp_hdx
+Bananas,Borno,Pulka,700,1.3 KG,2026-09-01,wfp_hdx
+Onions,Borno,Pulka,500,0.5 KG,2026-09-01,wfp_hdx
+Oranges,Borno,Pulka,500,400 G,2026-09-01,wfp_hdx
+Spinach,Borno,Pulka,150,300 G,2026-09-01,wfp_hdx
+Tomatoes,Borno,Pulka,1000,0.5 KG,2026-09-01,wfp_hdx
+Watermelons,Borno,Pulka,1200,2.1 KG,2026-09-01,wfp_hdx
+Maize flour,Borno,Banki,2000,2.1 KG,2026-09-01,wfp_hdx
+Millet,Borno,Banki,1000,2.6 KG,2026-09-01,wfp_hdx
+Rice (imported),Borno,Banki,4000,2.8 KG,2026-09-01,wfp_hdx
+Rice (local),Borno,Banki,3500,2.7 KG,2026-09-01,wfp_hdx
+Sorghum,Borno,Banki,1000,2.7 KG,2026-09-01,wfp_hdx
+Yam,Borno,Banki,3500,2.5 KG,2026-09-01,wfp_hdx
+Eggs,Borno,Banki,7500,30 pcs,2026-09-01,wfp_hdx
+Meat (beef),Borno,Banki,5000,KG,2026-09-01,wfp_hdx
+Meat (goat),Borno,Banki,7000,KG,2026-09-01,wfp_hdx
+Salt,Borno,Banki,250,250 G,2026-09-01,wfp_hdx
+Sugar,Borno,Banki,5275,500 G,2026-09-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Banki,2500,L,2026-09-01,wfp_hdx
+Oil (palm),Borno,Banki,3200,L,2026-09-01,wfp_hdx
+Oil (vegetable),Borno,Banki,3500,L,2026-09-01,wfp_hdx
+Beans (red),Borno,Banki,2800,2.5 KG,2026-09-01,wfp_hdx
+Beans (white),Borno,Banki,2500,2.5 KG,2026-09-01,wfp_hdx
+Cowpeas,Borno,Banki,2400,2.5 KG,2026-09-01,wfp_hdx
+Groundnuts,Borno,Banki,4275,2.2 KG,2026-09-01,wfp_hdx
+Bananas,Borno,Banki,1000,1.3 KG,2026-09-01,wfp_hdx
+Onions,Borno,Banki,300,0.5 KG,2026-09-01,wfp_hdx
+Oranges,Borno,Banki,500,400 G,2026-09-01,wfp_hdx
+Tomatoes,Borno,Banki,500,0.5 KG,2026-09-01,wfp_hdx
+Watermelons,Borno,Banki,3000,2.1 KG,2026-09-01,wfp_hdx
+Maize flour,Borno,Dikwa Central,1100,2.1 KG,2026-09-01,wfp_hdx
+Millet,Borno,Dikwa Central,1100,2.6 KG,2026-09-01,wfp_hdx
+Rice (imported),Borno,Dikwa Central,3700,2.8 KG,2026-09-01,wfp_hdx
+Rice (local),Borno,Dikwa Central,3000,2.7 KG,2026-09-01,wfp_hdx
+Sorghum,Borno,Dikwa Central,700,2.7 KG,2026-09-01,wfp_hdx
+Yam,Borno,Dikwa Central,3000,2.5 KG,2026-09-01,wfp_hdx
+Eggs,Borno,Dikwa Central,6750,30 pcs,2026-09-01,wfp_hdx
+Fish,Borno,Dikwa Central,2000,KG,2026-09-01,wfp_hdx
+Meat (beef),Borno,Dikwa Central,7000,KG,2026-09-01,wfp_hdx
+Meat (goat),Borno,Dikwa Central,8000,KG,2026-09-01,wfp_hdx
+Milk (powder),Borno,Dikwa Central,4000,400 G,2026-09-01,wfp_hdx
+Salt,Borno,Dikwa Central,250,250 G,2026-09-01,wfp_hdx
+Sugar,Borno,Dikwa Central,5000,500 G,2026-09-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Dikwa Central,1700,L,2026-09-01,wfp_hdx
+Oil (palm),Borno,Dikwa Central,2500,L,2026-09-01,wfp_hdx
+Oil (vegetable),Borno,Dikwa Central,2500,L,2026-09-01,wfp_hdx
+Beans (red),Borno,Dikwa Central,2700,2.5 KG,2026-09-01,wfp_hdx
+Beans (white),Borno,Dikwa Central,2650,2.5 KG,2026-09-01,wfp_hdx
+Cowpeas,Borno,Dikwa Central,2400,2.5 KG,2026-09-01,wfp_hdx
+Groundnuts,Borno,Dikwa Central,3800,2.2 KG,2026-09-01,wfp_hdx
+Bananas,Borno,Dikwa Central,900,1.3 KG,2026-09-01,wfp_hdx
+Onions,Borno,Dikwa Central,300,0.5 KG,2026-09-01,wfp_hdx
+Oranges,Borno,Dikwa Central,300,400 G,2026-09-01,wfp_hdx
+Spinach,Borno,Dikwa Central,100,300 G,2026-09-01,wfp_hdx
+Tomatoes,Borno,Dikwa Central,300,0.5 KG,2026-09-01,wfp_hdx
+Watermelons,Borno,Dikwa Central,2000,2.1 KG,2026-09-01,wfp_hdx
+Maize flour,Borno,Mafa,1300,2.1 KG,2026-09-01,wfp_hdx
+Millet,Borno,Mafa,1200,2.6 KG,2026-09-01,wfp_hdx
+Rice (local),Borno,Mafa,3500,2.7 KG,2026-09-01,wfp_hdx
+Sorghum,Borno,Mafa,1200,2.7 KG,2026-09-01,wfp_hdx
+Yam,Borno,Mafa,3500,2.5 KG,2026-09-01,wfp_hdx
+Eggs,Borno,Mafa,6550,30 pcs,2026-09-01,wfp_hdx
+Meat (beef),Borno,Mafa,7000,KG,2026-09-01,wfp_hdx
+Meat (goat),Borno,Mafa,7000,KG,2026-09-01,wfp_hdx
+Salt,Borno,Mafa,300,250 G,2026-09-01,wfp_hdx
+Sugar,Borno,Mafa,5200,500 G,2026-09-01,wfp_hdx
+Fuel (petrol-gasoline),Borno,Mafa,1320,L,2026-09-01,wfp_hdx
+Oil (palm),Borno,Mafa,3000,L,2026-09-01,wfp_hdx
+Oil (vegetable),Borno,Mafa,3100,L,2026-09-01,wfp_hdx
+Beans (red),Borno,Mafa,3100,2.5 KG,2026-09-01,wfp_hdx
+Beans (white),Borno,Mafa,3000,2.5 KG,2026-09-01,wfp_hdx
+Cowpeas,Borno,Mafa,2300,2.5 KG,2026-09-01,wfp_hdx
+Groundnuts,Borno,Mafa,3450,2.2 KG,2026-09-01,wfp_hdx
+Bananas,Borno,Mafa,500,1.3 KG,2026-09-01,wfp_hdx
+Onions,Borno,Mafa,275,0.5 KG,2026-09-01,wfp_hdx
+Oranges,Borno,Mafa,400,400 G,2026-09-01,wfp_hdx
+Spinach,Borno,Mafa,150,300 G,2026-09-01,wfp_hdx
+Tomatoes,Borno,Mafa,275,0.5 KG,2026-09-01,wfp_hdx
+Watermelons,Borno,Mafa,700,2.1 KG,2026-09-01,wfp_hdx
